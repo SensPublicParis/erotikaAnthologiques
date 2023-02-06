@@ -128,11 +128,38 @@ Mas ela é a única deusa inscrita em mim e beberei misturando seu desejável no
 - Lemma: καὶ αὐτὸ ἐρωτικόν
 - Lemmatiste: C
 
+Ὑετὸς ἦν καὶ νύξ, καὶ τὸ τρίτον ἄλγος ἔρωτι,
+οἶνος· καὶ Βορέης ψυχρός, ἐγὼ δὲ μόνος.
+Ἀλλ᾽ ὁ καλὸς Μόσχος πλέον ἴσχυεν. « Αἴ σὺ γὰρ οὕτως
+ἤλυες, οὐδὲ θύρην πρὸς μίαν ἡσύχασας. »
+Παιδὶ τοσοῦτ᾽ ἐβόησα βεβρεγμένος. Ἄχρι τίνος, Ζεῦ;
+Ζεῦ φίλε, σίγησον, καὐτὸς ἐρᾶν ἔμαθες.
+
 Era noite, havia chuva e, o terceiro algoz do amor, vinho. O frio de Bóreas e eu sozinho.
 Mas o belo Moschos estava completamente vigoroso. « Ora, pois você desse modo já esteve excitado, não sendo impedido por nenhuma porta. »
 Tais coisas gritei para a criança enquanto me molhava. Até quando, Zeus? Zeus amado, cale-se! Pois você também um dia aprendeu a amar.
 
 ### 5.182
+- Μελεάγρου
+- Lemma: ἐρωτικὸν καὶ μανίας μεστόν
+- Lemmatiste: C
+
+ἄγγειλον τάδε, Δορκάς: ἰδοὺ πάλι δεύτερον αὐτῇ
+καὶ τρίτον ἄγγειλον, Δορκάς, ἅπαντα. τρέχε:
+μηκέτι μέλλε, πέτου — βραχύ μοι, βραχύ, Δορκάς, ἐπίσχες..
+Δορκάς, ποῖ σπεύδεις, πρίν σε τὰ πάντα μαθεῖν;
+πρόσθες δ᾽ οἷς εἴρηκα πάλαι — μᾶλλον δὲ ῾τί ληρῶ;᾿
+μηδὲν ὅλως εἴπῃς — ἀλλ᾽ ὅτι — πάντα λέγε:
+μὴ φείδου τὰ ἅπαντα λέγειν. καίτοι τί σε Δορκάς,
+ἐκπέμπω, σὺν σοὶ καὐτός, ἰδού, προάγων;
+
+Dorcas, avisa lá que ... 
+Olha, Dorcas, pelo contrário, comunique tudo a ela duas ou três vezes. Corre ! Não mais hesites, voa !
+Medíocre, sou um medíocre, Dorcas. Espera, Dorcas, onde vais com tanta pressa antes de eu te fazer compreender todas as coisas ?
+Acrescenta aquilo que eu havia falado antes, e principalmente que ...
+Por que faço besteiras? Não fales absolutamente nada, mas que ...
+Diz tudo a ela, não se abstenhas de tudo falar.
+Ora, Dorcas, por que eu estou te enviando se eu também estou indo contigo?
 
 ### 5.38
 - Μακηδονίου Ὑπατικοῦ
