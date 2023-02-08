@@ -161,10 +161,23 @@ Por que faço besteiras? Não fales absolutamente nada, mas que ...
 Diz tudo a ela, não se abstenhas de tudo falar.
 Ora, Dorcas, por que eu estou te enviando se eu também estou indo contigo?
 
-### 5.38
+### 5.238
 - Μακηδονίου Ὑπατικοῦ
 - Lemma: καὶ αὐτὸ ἐρωτικόν
 - Lemmatiste: L
+
+τὸ ξίφος ἐκ κολεοῖο τί σύρεται; οὐ μὰ σέ, κούρη,
+οὐχ ἵνα τι πρήξω Κύπριδος ἀλλότριον,
+ἀλλ᾽ ἵνα σοι τὸν Ἄρηα, καὶ ἀζαλέον περ ἐόντα,
+δείξω τῇ μαλακῇ Κύπριδι πειθόμενον.
+Οὗτος ἐμοὶ ποθέοντι συνέμπορος, οὐδὲ κατόπτρου
+δεύομαι, ἐν δ᾽ αὐτῷ δέρκομαι αὑτὸν ἐγώ,
+κάγκανος ὡς ἐν ἔρωτι· σὺ δ᾽ ἢν ἀπ᾽ ἐμεῖο λάθηαι,
+τὸ ξίφος ἡμετέρην δύσεται ἐς λαγόνα. (Waltz)
+
+“Por que saca a espada da bainha?” Eu te juro, garota, não é para eu realizar algo contrário à Cypris, mas é para eu te mostrar Ares, que certamente é duro, ser persuadido pela mole Cypris.
+Ela é companheira do meu desejar, e não me falta espelho, pois nela eu vejo a mim mesmo seco como um amante.
+Mas se você vier a se esquecer de mim, a espada penetrará em nosso ventre.
 
 ## χλευαστικόν
 ### 5.41
