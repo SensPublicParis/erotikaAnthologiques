@@ -35,6 +35,17 @@ O belo Cornélio me aquece, mas eu temo essa chama, pois ela já se tornou um gr
 - Lemma: ἐρωτομανές
 - Lemmatiste: C
 
+μέχρι τίνος φλογόεσσαν ὑποκλέπτοντες ὀπωπὴν
+φώριον ἀλλήλων βλέμμα τιτυσκόμεθα;
+λεκτέον ἀμφαδίην μελεδήματα: κἤν τις ἐρύξῃ]
+μαλθακὰ λυσιπόνου πλέγματα συζυγίης,
+φάρμακον ἀμφοτέροις ξίφος ἔσσεται: ἥδιον ἡμῖν
+ξυνὸν ἀεὶ μεθέπειν ἢ βίον ἢ θάνατον.
+
+Até quando, dissimulando encaradas ardentes, nós lançaremos olhares furtivos um pro outro?
+A dor é dita publicamente, mas se alguém impedisse o delicado enlace da abraço que alivia as angústias,
+a espada seria o remédio para ambos: nos é mais doce seguir compartilhando para sempre seja a vida, seja a morte.
+
 ## ἀδικώτατον
 ### 5.49
 - Τουδίκιου Γάλλου
