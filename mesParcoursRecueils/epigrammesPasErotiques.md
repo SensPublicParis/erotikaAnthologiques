@@ -4,9 +4,17 @@ title: épigrammes qui ne sont pas érotiques selon les scholiastes
 
 ## χλευαστικόν
 ### 5.41
-- ῾Ρουφίνου
-- Lemma: πρός τινα πόρνην χλευαστικόν
-- Lemmatiste: L
+<p> - ῾Ρουφίνου</p>
+
+![*Codex Palatinus* 23 p. 94](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A094.jpg/pct:70.84756,45.33546,11.22938,2.11895/full/0/default.jpg)
+<p> - Lemma: πρός τινα πόρνην χλευαστικόν </p>
+
+![*Codex Palatinus* 23 p. 94]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A094.jpg/pct:69.90291,45.48261,18.51133,4.16507/full/0/default.jpg)
+<p> - Lemmatiste: L </p>
+
+--- 
+
+![*Codex Palatinus* 23 p. 94](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A094.jpg/pct:9.07897,45.02688,61.22966,11.83516/full/0/default.jpg)
 
 Τίς γυμνὴν οὕτω σε καὶ ἐξέβαλεν καὶ ἔδειρεν;
 Τίς ψυχὴν λιθίνην εἶχε καὶ οὐκ ἔβλεπεν;
@@ -21,9 +29,17 @@ Exceto que a partir de agora, quando um estiver dentro e o outro fora, fecha a p
 
 ## ἐρωτομανὲς
 ### 5.117 
-- Μαίκιου
-- Lemma: ἐρωτομανὲς καὶ γέμον ἀσέβειαν
-- Lemmatiste: L
+<p> - Μαίκιου </p>
+
+![*Codex Palatinus* 23 p. 104]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A104.jpg/pct:69.07708,41.16362,11.48268,2.01028/full/0/default.jpg)
+<p> - Lemma: ἐρωτομανὲς καὶ γέμον ἀσέβειαν </p>
+
+![*Codex Palatinus* 23 p. 104](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A104.jpg/pct:70.29126,41.35919,22.0712,3.08215/full/0/default.jpg)
+<p> - Lemmatiste: L </p>
+
+--- 
+
+![*Codex Palatinus* 23 p. 104]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A104.jpg/pct:7.50193,40.85437,62.71471,4.9987/full/0/default.jpg)
 
 θερμαίνει μ᾽ ὁ καλὸς Κορνήλιος: ἀλλὰ φοβοῦμαι
 τοῦτο τὸ φῶς, ἤδη πῦρ μέγα γιγνόμενον.
@@ -31,9 +47,17 @@ Exceto que a partir de agora, quando um estiver dentro e o outro fora, fecha a p
 O belo Cornélio me aquece, mas eu temo essa chama, pois ela já se tornou um grande incêndio.
 
 ### 5.221
-- Παύλου Σιλεντιαρίου
-- Lemma: ἐρωτομανές
-- Lemmatiste: C
+<p> - Παύλου Σιλεντιαρίου </p>
+
+![*Codex Palatinus* 23 p. 121](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A121.jpg/pct:13.84648,35.48502,13.4741,3.76723/full/0/default.jpg)
+<p> - Lemma: ἐρωτομανές </p>
+
+![*Codex Palatinus* 23 p. 121]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A121.jpg/pct:14.12117,38.62899,16.44841,2.07968/full/0/default.jpg)
+<p> - Lemmatiste: C </p>
+
+---
+
+![*Codex Palatinus* 23 p. 121](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A121.jpg/pct:26.31209,35.76879,65.10114,12.25265/full/0/default.jpg)
 
 μέχρι τίνος φλογόεσσαν ὑποκλέπτοντες ὀπωπὴν
 φώριον ἀλλήλων βλέμμα τιτυσκόμεθα;
@@ -48,9 +72,17 @@ a espada seria o remédio para ambos: nos é mais doce seguir compartilhando par
 
 ## ἀδικώτατον
 ### 5.49
-- Τουδίκιου Γάλλου
-- Lemma: ἐπίγραμμα ἀδικώτατον
-- Lemmatiste: L
+<p> - Τουδίκιου Γάλλου </p>
+
+![*Codex Palatinus* 23 p. 95](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A095.jpg/pct:13.72646,59.19457,11.90662,3.60209/full/0/default.jpg)
+<p> - Lemma: ἐπίγραμμα ἀδικώτατον </p>
+
+![*Codex Palatinus* 23 p. 95](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A095.jpg/pct:13.6423,61.28232,15.01305,4.39825/full/0/default.jpg)
+<p>- Lemmatiste: L </p>
+
+---
+
+![*Codex Palatinus* 23 p. 95](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A095.jpg/pct:28.37457,58.8982,60.15529,8.48828/full/0/default.jpg)
 
 ἡ τρισὶ λειτουργοῦσα πρὸς ἓν τάχος ἀνδράσι Λύδη,
 τῷ μὲν ὑπὲρ νηδύν, τῷ δ᾽ ὑπό, τῷ δ᾽ ὄπιθεν,
@@ -61,9 +93,16 @@ Lídia, a que serve a três homens em um mesmo momento, - um no buraco de cima, 
 
 ## πορνικώτατον
 ### 5.55
-- Διοσκορίδου
-- Lemma: εἰς Δωρίδα τὴν πόρνην : πορνικώτατον 
-- Lemmatiste: L
+<p>- Διοσκορίδου</p>
+
+![*Codex Palatinus* 23 p. 96]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A096.jpg/pct:69.37858,41.63885,10.89166,2.28194/full/0/default.jpg)
+<p>- Lemma: εἰς Δωρίδα τὴν πόρνην : πορνικώτατον </p> 
+
+![*Codex Palatinus* 23 p. 96](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A096.jpg/pct:68.34951,41.73404,19.80583,6.12266/full/0/default.jpg)
+<p>- Lemmatiste: L </p>
+
+---
+![*Codex Palatinus* 23 p. 96]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A096.jpg/pct:7.56231,40.887,60.77272,16.02525/full/0/default.jpg)
 
 Δωρίδα τὴν ῥοδόπυγον ὑπὲρ λεχέων διατείνας
 ἄνθεσιν ἐν χλοερoῖς ἀθάνατος γέγονα.
