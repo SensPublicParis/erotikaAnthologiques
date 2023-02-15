@@ -7,6 +7,7 @@
 ## Définition anthologie
 ### État de l'art
 ### Anthologie en tant qu'une méthodologie organisationnelle
+### Anthologie et numérique
 ## Anthologie Grecque
 ### Contextualisation de l'œuvre
 #### Anthologie Grecque et Anthologie Palatine, semblables mais différentes
@@ -19,8 +20,9 @@
 ### Définition
 ### Érotisme ou pornographie?
 ## Littérature érotique (jusqu'où ? Antiquité? Empire byzantin? Est-ce qu'on peut délimiter jusqu'où va l'influence de l'AG ?)
-### Littérature érotique dans l'Antiquité
-### Érotisme héllenistique (?)
+### Est-ce qu'on peut parler de littérature érotique dans l'Antiquité
+#### Épigrammes amoureuses latines 
+### Érotisme héllenistique
 ## Les *erotika* à l'Anthologie Palatine
 ### Mécanismes d'anthologisation en œuvre dans l'AG
 #### Les choix des anthologistes
@@ -30,3 +32,4 @@
 ##### Épigrammes qui ne sont pas "érotiques"
 ### Les épigrammes rassemblées par thèmes
 #### L'amour brulant
+#### objets parlants
