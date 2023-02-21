@@ -24,15 +24,41 @@ De quelque façon, c'est une pensée à developper.
 ## L'épigramme
 Étudier l'épigramme, l'élément unitaire de l'AG
 ### Définition
+Donner une défition d'épigramme.
+D'abord, on peut penser à une définition de l'épigramme à l'Antiquité.
+Mais l'AG ne se restreint pas à l'Antiquité. Ainsi, on se pose la question si l'épigramme est une genre textuel à travers le temps.
 ### Un genre textuel?
+Est-ce qu'on peut dire, par exemple, que les traductions des épigrammes sont aussi des épigrammes ou le texte, une fois traduit, cesse d'être un épigramme.
+Il faut penser quelles sont les caractéristiques textuelles partagées entre toutes les versions des textes de l'AG. À la fin, on se pose s'il y a des caractéristiques qui soient communes à tous ces textes, à exception au fait de qu'ils sont à l'AG. 
 # Deuxième partie - Les erotika
+Dans cette partie du travail, j'approfonds ma pensée et je entre aux erotika.
 ## Érotisme
+D'abord, il faut discuter l'élément commun, ou qui est censé d'être commun à tous ces textes, qui est l'érotisme. 
 ### Définition
+Donner une définition ouvrable d'érotisme.
+Comment et pourquoi un texte devient érotique?
+Les épigrammes sont érotiques. Il n'y a aucune dout par rapport à ça. D'abord, c'est même Céphalas qu'affirme que les épigrammes sont érotiques. On peut pas échapper à l'érotisme.
+Mais est-ce qu'il y en a des épigrammes qui sont pornographiques?
 ### Érotisme ou pornographie?
+Érotisme et pornographie sont des concepts différents ou sont-ils synonimes?
+Ici, je dois travailler avec les porn studies. 
+#### Porn studies
+Établir un état de l'art des porns studies
+#### Pornographie à l'antiquité
+Est-ce qu'on peut parler de pornographie à l'antiquité dans le cadre qu'on comprend la pornographie aujourd'hui?
+Dans un première moment, on suppose que non. Mais ensuite on voit le πορνικώτατον qui L a mis à 5.55.2.
+Or, cette scholie pose plusieurs question. D'abord comment la traduire vers le français?
+Pour la traduire, il faut comprendre ce que L veut dire par πορνικώτατον. Est-ce qu'il parle des femmes prostituées, et l'épigramme est le plus representative de ces femmes-là? Mais au texte de 5.55, sauf l'acte sexuel, il n'y a aucune indication que Doris soit une prostituée. 
 ## Littérature érotique (jusqu'où ? Antiquité? Empire byzantin? Est-ce qu'on peut délimiter jusqu'où va l'influence de l'AG ?)
+L'érotisme en tant qu'un genre littéraire.
+Quels sont les modèles de l'érotisme et quel est le canon érotique?
 ### Est-ce qu'on peut parler de littérature érotique dans l'Antiquité
+L'érotisme est un genre littéraire présent à l'Antiquité?
+Je peux cherhcer des textes érotiques de la période.
+#### Érotisme héllenistique
+Il y a de la littérature érotique héllenistique hors de l'AG? Quels sont ces textes et leurs caractéristiques.
 #### Épigrammes amoureuses latines 
-### Érotisme héllenistique
+Or, il y en une littérature érotique latine. Qui sont les auteurs et quoi ils ont publié?
 ## Les *erotika* à l'Anthologie Palatine
 ### Mécanismes d'anthologisation en œuvre dans l'AG
 #### Les choix des anthologistes
