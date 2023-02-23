@@ -109,4 +109,45 @@ La conquête Mongol met de la pression sur les Turcs. Les Turcs ainsi vont conqu
 
 C'est cher d'avoir un Empire centré à Constantinople. Pour y avoir un Empire, il faut des provinces qui envoient de l'argent à la ville. Lorsque l'Empire perd les provinces, maintenir Constantinople devient insustenable.
 
+---
+
+3^ème^ partie
+
+L'église est une institution centrale dans Byzance. Ses relations avec les autres églises, son idéologie, son organisation administrative, son influence à la ville et à la campaigne.
+
+Chrétienneté médievale doit inclure la chrétienneté orthodoxe.
+
+Les icônes offrent un accès au sacré (oui, il y a eu une période d'iconoclastie. par contre, les icônes restent là)
+
+> That beauty and superlative technical expertise should be attributes of imperial power was a tenet of Byzantine thinking until virtually the end. (p. 55)
+
+La technique, un empire fondée sur la technicalisation du monde. La réligion devient plus en plus cérimonialisée. Or, elle devient une techinque d'accès au sacré. Les arts sont modalisées, encadrées aussi? 
+Technique -> une liste de mesures à prendre pour obtenir un résultat?
+
+La richesse doit être montrée. Laisser les gens savoir qui Constantinople est riche et puissante.
+
+L'église aussi travaille dans la determination de ce qui est acceptable au domaine des arts. 
+Si je pense à l'Anthologie Palatine, elle est d'une certaine façon une œuvre liée à l'église. Céphalas était un moine. Au Cycle d'Agathias il y en a des auteurs qui sont des moines aussi. Les copistes sont de moines.
+L'œuvre de Céphalas n'est pas un traité réligieux. Mais les dogma réligieux sont là aussi. Par exemple, si je pense à la division faite par Céphalas entre les épigrammes amoureuses et la muse garçonière.
+
+Littérature
+> No term in use among the Byzantines corresponds precisely with our 'literature' and what they wrote has been termed a 'distorting mirror', designed to reflect other than reality (p. 58)
+Ça veut dire quoi? Je n'ai pas vraimente compris l'ennoncé. 
+L'argument qui suivre est que la production est plus "historique", au sens qu'elle parle, en emploiant beaucoup d'outils rhétoriques, de la vie et des conquêtes des rois.
+> Thanks to private secondary schooling, the handful of senior officeholders, churchmen and scholars were at home with an all but dead language far removed from the everyday Greek spoken in the countryside or even in the capital's streets. (p. 58)
+
+Tenth-century Constantinopolitan teacher's letter-collection: *Anonymi professoris epistulae*. 
+À voir : Constantinides (2003)
+
+Les livres à Byzance sont des codices.
+
+D'une façon, Byzance fait l'anthologisation de l'Antiquité classique. L'émpire se voit en tant qu'héritier de l'Antiquité. C'est lui qui choisit et rassemble les éléments de l'Antiquité.
+
+Il y a beaucoup d'information sur l'armée byzantine.
+L'armée et les 'Byzantine praetorians'
+Une question épineuse est la taille de l'armée et l'origine des combatants
+> arms-beares originating from societies attuned to violence played an important part in maintaining the empire's security from Justinian's era onwards, the Armenians being pre-eminent. (p. 61)
+L'armée était une importante partie du budget de l'émpire.
+Constantinople recouvre l'impôt, cette activité n'est pas une responsabilité des *strategoi*.
+
 
