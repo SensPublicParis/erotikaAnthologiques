@@ -117,17 +117,105 @@ Quando Doris de nádegas rosáceas estava em meu leito e eu estirei sua jovem fl
 
 ## σκωπτικόν
 ### 5.71
-- τοῦ αὐτοῦ οἱ δὲ (A et C) ; Παλλαδᾶ Ἀλεξανδρέως (L)
-- Lemma: σκωπτικὸν εἰς γυναῖκα Ζήνωνος
+<p>- τοῦ αὐτοῦ οἱ δὲ (A et C) ; Παλλαδᾶ Ἀλεξανδρέως (L) </p>
+
+![*Codex Palatinus* 23 p. 98](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A098.jpg/pct:70.07485,51.1377,12.24256,2.28194/full/0/default.jpg)
+
+![*Codex Palatinus* 23 p. 98](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A098.jpg/pct:69.87865,53.2752,17.61091,3.31794/full/0/default.jpg)
+
+<p>- Lemma: σκωπτικὸν εἰς γυναῖκα Ζήνωνος </p>
+
+![*Codex Palatinus* 23 p. 98](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A098.jpg/pct:70.60914,56.16624,18.75285,3.14184/full/0/default.jpg)
+
 - Lemmatiste: L
 
+---
 
-### 5.76 
+![*Codex Palatinus* 23 p. 98](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A098.jpg/pct:8.64191,50.38982,56.12235,8.93501/full/0/default.jpg)
+
+Πρωτομάχου πατρὸς καὶ Νικομάχης γεγαμηκὼς
+θυγατέρα, Ζήνων, ἔνδον ἔχεις πόλεμον.
+ζήτει Λυσίμαχον μοιχὸν φίλον, ὃς ς᾽ ἐλεήσας
+ἐκ τῆς Πρωτομάχου λύσεται Ἀνδρομάχης.
+
+Zenão, você casou com a filha de Protómaco e Nicômaca, você leva o conflito dentro de casa.
+Procure Lisímaco, o amigo adúltero, aquele que, por ter piedade de você, se livrará de Andrômaca, filha de Protómaco.
+
+### 5.76
+<p> - τοῦ αὐτοῦ (Rufin) </p>
+
+![*Codex Palatinus* 23 p 99]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A099.jpg/pct:11.54939,37.64258,12.41912,2.13361/full/0/default.jpg)
+  
+<p>- Lemma: εἰς πόρνην γηράσασαν: σκωπτικόν </p>
+
+![*Codex Palatinus* 23 p. 99](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A099.jpg/pct:11.42204,39.27216,15.34777,5.02263/full/0/default.jpg)
+
+- Lemmatiste: L
+
+---
+![*Codex Palatinus* 23 p. 99](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A099.jpg/pct:24.5052,37.36036,63.7209,12.47408/full/0/default.jpg)
+
+αὕτη πρόσθεν ἔην ἐρατόχροος, εἰαρόμασθος,
+εὔσφυρος, εὐμήκης, εὔοφρυς, εὐπλόκαμος:
+ἠλλάχθη δὲ χρόνῳ καὶ γήραϊ καὶ πολιαῖσι,
+καὶ νῦν τῶν προτέρων οὐδ᾽ ὄναρ οὐδὲν ἔχει,
+ἀλλοτρίας δὲ τρίχας, καὶ ῥυσῶδες τὸ πρόσωπον,
+οἷον γηράσας οὐδὲ πίθηκος ἔχει.
+
+Antigamente ela tinha uma linda tez, uns seios primaveris, as pernas torneadas, o tamanho ideal, um olhar apaixonante e belas madeixas.
+Mas ela mudou com o tempo, a velhice e os cabelos brancos, e hoje ela não tem nem mesmo em sonho aquilo que tinha antes.
+Agora, apenas cabelos hostis e uma face enrugada que nem um macaco velho tem.
 
 ## ὡραῖον
 ### 5.94
+<p>- τοῦ αὐτοῦ (Rufin) </p>
+
+![*Codex Palatinus* 23 p 101](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A101.jpg/pct:12.33893,23.64646,14.2771,2.88665/full/0/default.jpg)
+
+<p>- Lemma: εἰς Μελίτην ὡραῖον </p>
+
+![*Codex Palatinus* 23 p. 101](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A101.jpg/pct:12.31614,25.9471,16.8196,2.63564/full/0/default.jpg)
+
+- Lemmatiste: L
+
+---
+
+![*Codex Palatinus* 23 p. 101](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A101.jpg/pct:26.96779,23.77902,64.92451,8.42235/full/0/default.jpg)
+
+ὄμματ᾽ ἔχεις Ἥρης, Μελίτη, τὰς χεῖρας Ἀθήνης,
+τοὺς μαζοὺς Παφίης, τὰ σφυρὰ τῆς Θέτιδος.
+εὐδαίμων ὁ βλέπων σε: ;τρισόλβιος ὅστις ἀκούει:
+ἡμίθεος δ᾽ ὁ φιλῶν ἀθάνατος δ᾽ ὁ γαμῶν.
+
+Melite, você tem os olhos de Hera, as mãos de Atenas, os seios de Afrodite e os pés de Tétis.
+Bem-aventurado é aquele que te vê, três vezes abençoado é quem te escuta, semi-deus é o que te ama e imortal quem casa contigo.
+
 ### 5.95
+
+<p>- Ἀδέσποτον </p>
+
+![*Codex Palatinus* 23 p. 101](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A101.jpg/pct:12.70872,31.32932,14.03156,2.96348/full/0/default.jpg)
+
+<p>- Lemma: ὡραῖον </p>
+
+![*Codex Palatinus* 23 p 101](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A101.jpg/pct:8.48848,30.66215,4.25573,2.87863/full/0/default.jpg)
+
+- Lemmatiste: C
+
+---
+
+![*Codex Palatinus* 23 p 101](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A101.jpg/pct:26.80329,31.57985,65.34338,4.47997/full/0/default.jpg)
+
+Τέσσαρες αἱ Χάριτες, Παφίαι δύο, καὶ δέκα Μοῦσαι:
+Δερκυλὶς ἐν πάσαις Μοῦσα, Χάρις, Παφίη.
+
+Quatro são as Graças; duas, as Páfias e dez, as Musas.
+Dercília está em todas elas; Musa, Graça e Páfia.
+
 ### 5.179
+
+
+
 ### 5.270
 
 ## τωθαστικὸν
