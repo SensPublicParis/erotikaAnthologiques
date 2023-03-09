@@ -213,7 +213,43 @@ Quatro são as Graças; duas, as Páfias e dez, as Musas.
 Dercília está em todas elas; Musa, Graça e Páfia.
 
 ### 5.179
+<p>- Τοῦ αὐτοῦ (Méléagre) </p>
 
+![*Codex Palatinus* 23 p. 113](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A113.jpg/pct:12.26877,59.64544,14.62813,2.45597/full/0/default.jpg)
+
+<p>- Lemma: εἰς Ἔρωτα · περίεργον, ὡραῖον</p>
+
+![*Codex Palatinus* 23 p. 113](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A113.jpg/pct:11.64776,61.4632,18.49434,3.9561/full/0/default.jpg)
+
+- Lemmatiste: C
+
+---
+
+![*Codex Palatinus* 23 p. 113]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A113.jpg/pct:28.74674,59.90298,60.48738,18.5704/full/0/default.jpg)
+
+![*Codex Palatinus* 23 p. 114](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A114.jpg/pct:11.96644,11.40776,56.88875,3.45498/full/0/default.jpg)
+
+ναὶ τὰν Κύπριν, Ἔρως, φλέξω τὰ σὰ πάντα πυρώσας,
+τόξα τε καὶ Σκυθικὴν ἰοδόκον φαρέτρην
+φλέξω, ναί, τί μάταια γελᾷς, καὶ σιμὰ σεσηρὼς
+μυχθίζεις; τάχα που σαρδάνιον γελάσεις.
+ἦ γάρ σευ τὰ ποδηγὰ Πόθων ὠκύπτερα κόψας,
+χαλκόδετον σφίγξω σοῖς περὶ ποσσὶ πέδην.
+καίτοι Καδμεῖον κράτος οἴσομεν, εἴ σε πάροικον
+ψυχῇ συζεύξω, λύγκα παρ᾽ αἰπολίοις.
+ἀλλ᾽ ἴθι, δυσνίκητε, λαβὼν δ᾽ ἔπι κοῦφα πέδιλα
+ἐκπέτασον ταχινὰς εἰς ἑτέρους πτέρυγας
+
+Sim, por Cipris! Eros, atirando no fogo, queimarei todas suas coisas!
+Sim, queimarei seus arcos e sua aljava cita cheia de flechas !
+Por que você ri sem motivo e, até respirando pelo nariz por tanto rir, faz troça?
+Em breve talvez rirá amargurado.
+Pois certamente terei cortado suas velozes asas que guiam o Desejo, 
+e amarrarei ao redor de seus pés algemas de bronze.
+Então, de fato, teremos uma vitória de Cadmo,
+pois amarrarei você ao lado da alma, um lince entre as cabras.
+Agora vá, adversário imbatível, pegue suas leves sandálias
+E bata suas ligeiras asas em outros lugares.
 
 
 ### 5.270
