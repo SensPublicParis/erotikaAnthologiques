@@ -9,3 +9,5 @@ Il faut trouver une bibliographie autour de la traduction automatique
 "La traduction automatique est un processus informatique où un texte dans une langue source est traduit vers une langue cible" 
 
 "La lemmatisation est l'opération par laquelle les formes d'un texte, ou d'un corpus de textes, sont classées sous le mot qui pourrait leur servir d' «entrée lexicale» dans un dictionnaire"
+
+J'ai crée un article Stylo [ici](https://stylo.huma-num.fr/article/6412309ba12b9d0012ebb0d1/preview)
