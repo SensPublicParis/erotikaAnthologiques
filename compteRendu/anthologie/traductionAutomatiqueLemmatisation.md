@@ -80,3 +80,24 @@ Le lemmatizer n'est pas toujours correct. Ainsi, pour les tester, Vatri and McGi
 Cela veut dire qu'il faut toujours, au moins jusqu'ici, l'analyse du traducteur/lecteur humain. 
 
 Le plus grand le lexica (les formes déclinnées et les lemmas), le mieux fonctionne le lemmatizer
+
+## Méthodes et pratiques de l'édition critique des textes et documents modernes (Eddie Breuil)
+
+Édition critique: la pratique d'établissement scientifique d'une œuvre
+L'éditeur scientifique tente d'agencer les différentes versions d'une œuvre
+
+> l'édition suppose une intervention sur le texte à établir, tandis que la publication suppose une simple mise à disposition sans intervention voulue (p. 11)
+
+Anthologia: édition pluriversionnelle ou édition pluriprésentationnelle
+
+- Éditions pluriprésentationnelles (p. 694)
+les éditions conjointes d'un même texte obéissant à des modalites de présentation différentes (p. 695)
+Le type le plus répandu est la reproduction du *fac-similé*, accompagnée de sa transcription
+Ce que propose ce type d'édition
+1. un *fac-similé* du manuscrit
+2. transcription diplomatique (pour l'AG il y en a 2 au moins, celle de Waltz et celle de Paton)
+3. Une édition du texte
+4. Des traductions
+
+> Ces éditions pluriprésentationnelles apportent à la fois des gages de fiabilité et des garanties de démocratisations du patrimoine textuel édité. Elles présentent toutefois un coût certain, relativisé lorsqu'elles sont réalisées sur un format numérique (p. 697)
+
