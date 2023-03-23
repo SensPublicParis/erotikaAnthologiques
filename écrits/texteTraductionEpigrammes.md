@@ -24,9 +24,16 @@ Les trois étapes de la TA
 --- 
 Édition pluriprésentationnelle
 
+Présenter l'AP comme un lieu de remédiation
+Concept de pluriprésentationnelle
+
 ---
 
-Des difficultés et caractéristiques particulières
+La censure ou comment traduire le pornographique
 
 1. La censure? Comment traduire ces epigrammes qui parfois sont très explicites? Est-ce il faut avoir cette préocupation?
 2. Comment traduire des sentiments à des sociétés autant différentes?
+
+-- -
+
+Le pornikotaton
