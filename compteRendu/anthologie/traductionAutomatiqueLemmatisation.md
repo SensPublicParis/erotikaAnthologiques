@@ -101,3 +101,71 @@ Ce que propose ce type d'édition
 
 > Ces éditions pluriprésentationnelles apportent à la fois des gages de fiabilité et des garanties de démocratisations du patrimoine textuel édité. Elles présentent toutefois un coût certain, relativisé lorsqu'elles sont réalisées sur un format numérique (p. 697)
 
+
+## Penser le palimpseste numérique (Margot Mellet)
+
+Espace numérique: espace de médiation de corpus antiques. 
+Les projets numériques: possibles remédiations, héritage et tradition vers un nouvel héritage en développement
+
+Projet Anthologia: une plateforme éditable par l'utilisateur.trice (API)
+
+Notion du lien faible:
+
+> En effet, si la notion est utilisée dans les théories de l'information et des communications pour qualifier les "simples connaissances" d'un individu dans le contexte des réseaux sociaux (Casilli, 2010; Granovetter, 1973), elle désigne ici les associations libres, faites par l'utilisateur.trice, de contenus divers à un contenu édité et figé, qui est celui de l'*Anthologie palatine* (p. 3)
+
+Liens faibles sont associations libres (c'est, par exemple, un erotomanes devenir un cheia de manias)
+
+Tout lien faible (celui du classiciste et celui de l'amateur.trice) est une émergence de l'imaginaire anthologique.
+
+Une écriture autre, qui peut être étrangère au corpus épigrammatique par rapport à l'époque, à la thématique, auteur, format, langue.
+
+Transmédiation du support papier au support écran
+
+L'AP dévoile des défis philologiques -- plusieurs sources identifiées -- de auteur -- il y a une centaine d'auteur.e.s.
+
+Un objet littéraire ouvert: un dépositaire d'un réseau d'imaginaires.
+
+Anthologia: 
+1. metadonnées
+- auteur.e;
+- URI; 
+- Image du manuscrit
+2. Texte
+- versions et traductions
+- alignement du texte
+3. Enrichissement
+- mots-clefs thématiques;
+- images;
+- scholies; 
+- reférences; 
+
+Anthologie palatine: une œuvre de composition  et résultat d'une somme d'évènements éditoriaux.
+Co-construction éditoriale
+
+Les 'types' d'épigrammes à l'AP: 
+- épigramme au sens étymologie (inscrit sur une tombe quelconque)
+- une inscription brève, mais avec des images poétiques ingénieuses
+- un dialogue court
+
+> en couronne épigrammatique, l'*Anthologie palatine* tresse ses éléments autour de nœuds (les topoï) qui génèrent un réseau de connivences d'imaginaires (p. 6)
+
+Imaginaire collectif: dynamiques d'association et d'appropriation transhistoriques de contenus classiques; un commun fondé sur un principe de partage continu de savoirs en réseau.
+
+> le topos structure l'*Anthologie palatine* (intertextualité entre les épigrammes) et révèle sa participation à un imaginaire collectif (hypertextualité) (p. 6)
+
+- Hypertextualité
+
+" Toute relation unissant un texte B (hypertexte) à un texte antérieur A (hypotexte) sur lequel il se greffe d'une manière qui n'est pas celle du commentaire."
+
+Les liens faibles sont de l'hypertextualité
+L'hypertextualité (par rapport les liens faibles) fait partie de l'imaginaire anthologique autant que les propres épigrammes 
+
+- Intertextualité
+
+Relation de coprésence entre deux ou plusieurs textes. 
+
+- Transtextualité
+
+La transtextualité comprend la relation entre textes, ainsi que les relations entre un texte et une extratextualité
+
+> Les liens faibles, parce qu'ils se fondent sur un geste d'association libre -- c'est-à-dire sans limitation de forme, de source ou de contenu --, peuvent être des hypertextes, des intertextes, ou ne pas être des textes et participer d'une relatino de transtextualité avec l'épigramme source. (p. 10)
