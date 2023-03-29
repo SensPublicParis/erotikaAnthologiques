@@ -95,14 +95,17 @@ Lídia, a que serve a três homens em um mesmo momento, - um no buraco de cima, 
 ### 5.55
 <p>- Διοσκορίδου</p>
 
-![*Codex Palatinus* 23 p. 96]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A096.jpg/pct:69.37858,41.63885,10.89166,2.28194/full/0/default.jpg)
+![*Codex Palatinus* 23 p. 96](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A096.jpg/pct:69.37858,41.63885,10.89166,2.28194/full/0/default.jpg)
+
 <p>- Lemma: εἰς Δωρίδα τὴν πόρνην : πορνικώτατον </p> 
 
 ![*Codex Palatinus* 23 p. 96](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A096.jpg/pct:68.34951,41.73404,19.80583,6.12266/full/0/default.jpg)
+
 <p>- Lemmatiste: L </p>
 
 ---
-![*Codex Palatinus* 23 p. 96]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A096.jpg/pct:7.56231,40.887,60.77272,16.02525/full/0/default.jpg)
+
+![*Codex Palatinus* 23 p. 96](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A096.jpg/pct:7.56231,40.887,60.77272,16.02525/full/0/default.jpg)
 
 Δωρίδα τὴν ῥοδόπυγον ὑπὲρ λεχέων διατείνας   
 ἄνθεσιν ἐν χλοερoῖς ἀθάνατος γέγονα.  
@@ -153,6 +156,7 @@ Procure Lisímaco, o amigo adúltero, aquele que, por ter piedade de você, se l
 - Lemmatiste: L
 
 ---
+
 ![*Codex Palatinus* 23 p. 99](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A099.jpg/pct:24.5052,37.36036,63.7209,12.47408/full/0/default.jpg)
 
 αὕτη πρόσθεν ἔην ἐρατόχροος, εἰαρόμασθος,  
@@ -225,7 +229,7 @@ Dercília está em todas elas; Musa, Graça e Páfia.
 
 ---
 
-![*Codex Palatinus* 23 p. 113]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A113.jpg/pct:28.74674,59.90298,60.48738,18.5704/full/0/default.jpg)
+![*Codex Palatinus* 23 p. 113](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A113.jpg/pct:28.74674,59.90298,60.48738,18.5704/full/0/default.jpg)
 
 ![*Codex Palatinus* 23 p. 114](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A114.jpg/pct:11.96644,11.40776,56.88875,3.45498/full/0/default.jpg)
 
@@ -288,6 +292,34 @@ Eu perco o fôlego com tudo isso, e me encanto com os olhos sozinhos, nos quais 
 
 ## τωθαστικὸν
 ### 5.126
+<p> - Φιλοδήμου </p>
+
+![*Codex Palatinus* 23 p. 105](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A105.jpg/pct:11.19553,58.6548,12.9419,2.12457/full/0/default.jpg)
+
+<p> - Lemma: ωθαστικὸν ἐπί τινι ἐρῶντι σαρπῷ καὶ πολλὰ παρεχομένῳ ταῖς ἑταίραις </p>
+
+![*Codex Palatinus* 23 p. 105](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A105.jpg/pct:9.53954,60.119,17.42675,7.96558/full/0/default.jpg)
+
+<p>- Lemmatiste: C </p>
+
+---
+
+![*Codex Palatinus* 23 p. 105](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A105.jpg/pct:27.29017,58.93993,61.88059,11.80978/full/0/default.jpg)
+
+πέντε δίδωσιν ἑνὸς τῇ δεῖνα ὁ δεῖνα τάλαντα,
+καὶ βινεῖ φρίσσων, καὶ μὰ τὸν οὐδὲ καλὴν
+πέντε δ᾽ ἐγὼ δραχμὰς τῶν δώδεκα Λυσιανάσσῃ,
+καὶ βινῶ πρὸς τῷ κρείσσονα καὶ φανερῶς.
+πάντως ἤτοι ἐγὼ φρένας οὐκ ἔχω, ἢ τό γε λοιπὸν
+τοὺς κείνου πελέκει δεῖ διδύμους ἀφελεῖν.
+
+Um fulano dá a uma fulana cinco talentos por umazinha,
+trepa tremendo e, meu Deus, nem bonita ela é;
+já eu dou cinco dracmas para Lisianassa por dozes vezes,
+além disso ainda trepo muito melhor e às claras.
+Certamente ou eu não tenho nada na cabeça, 
+ou precisam cortar as bolas do outro com um machado.
+
 ### 5.204 
 - Μελεάγρου
 - Lemma: εἰς Τιμάριον ἑταίραν · τωθαστικόν
