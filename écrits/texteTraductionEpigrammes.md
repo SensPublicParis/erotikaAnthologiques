@@ -16,16 +16,26 @@ Il faut trouver une bibliographie autour de la traduction automatique
 
 Les trois étapes de la TA
 1. dictionnaire électronique - les dictionnaires et la lemmatisation
-2. traduction statistique - les données affichés par Perseus ; CLTK ; Classical Language Toolkit (CLTK) contains a lemmatizer that disambiguates between multiple lemmas by choosing the most frequent one according to its corpus frequency.  CLTK runs differents lemmatizers in sequence. So, if one lemmatizer cannot find the answer, another one will be able to lemmatise the word. C'est un cas au champs de la traduction automatique statistique. Le plus grand le corpus mieux est la lemmatisation.
+2. traduction statistique - les données affichés par Perseus ; CLTK ; Classical Language Toolkit (CLTK) contains a lemmatizer that disambiguates between multiple lemmas by choosing the most frequent one according to its corpus frequency.  CLTK runs differents lemmatizers in sequence. So, if one lemmatizer cannot find the answer, another one will be able to lemmatise the word <!-- Je n'ai pas parlé du CLTK, mais du Morpheus -->. C'est un cas au champs de la traduction automatique statistique. Le plus grand le corpus mieux est la lemmatisation.
 3. traduction neuronale - je ne vais pas traiter de la traduction neuronale.
 
 "La lemmatisation est l'opération par laquelle les formes d'un texte, ou d'un corpus de textes, sont classées sous le mot qui pourrait leur servir d' «entrée lexicale» dans un dictionnaire"
 
+Les cas où le dictionnaire ne trouve pas le mot: souvent des noms propres <!-- à penser la pertinence --> 
+
 --- 
+
 Édition pluriprésentationnelle
 
 Présenter l'AP comme un lieu de remédiation
-Concept de pluriprésentationnelle
+
+Concept de pluriprésentationnelle -> une anthologie est essentiellement pluriprésentationnelle parce qu'elle fait de la remédiation.
+
+> from its very origin the anthology form presented itself as a collection of separate, standalone stories. Narratives are therefore the *nuclei* of the anthology, which is primarily a form built on the assemblage of multiple forms. (p. 30) (Redefining the anthology)
+
+Une définition d'anthologie: 
+
+> the anthology can be read as a *form* that gives a *structure* to narrative *content* in relation to a cultural, social, economic *context*, among others (p. 34) (Redefining the anthology)
 
 ---
 
