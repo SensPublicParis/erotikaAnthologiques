@@ -10,7 +10,7 @@ title: épigrammes qui ne sont pas érotiques selon les scholiastes
 
 <p> - Lemma: πρός τινα πόρνην χλευαστικόν </p>
 
-![*Codex Palatinus* 23 p. 94]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A094.jpg/pct:69.90291,45.48261,18.51133,4.16507/full/0/default.jpg)
+![*Codex Palatinus* 23 p. 94](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A094.jpg/pct:69.90291,45.48261,18.51133,4.16507/full/0/default.jpg)
 
 <p> - Lemmatiste: L </p>
 
@@ -33,7 +33,7 @@ Exceto que a partir de agora, quando um estiver dentro e o outro fora, fecha a p
 ### 5.117 
 <p> - Μαίκιου </p>
 
-![*Codex Palatinus* 23 p. 104]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A104.jpg/pct:69.07708,41.16362,11.48268,2.01028/full/0/default.jpg)
+![*Codex Palatinus* 23 p. 104](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A104.jpg/pct:69.07708,41.16362,11.48268,2.01028/full/0/default.jpg)
 
 <p> - Lemma: ἐρωτομανὲς καὶ γέμον ἀσέβειαν </p>
 
@@ -43,7 +43,7 @@ Exceto que a partir de agora, quando um estiver dentro e o outro fora, fecha a p
 
 --- 
 
-![*Codex Palatinus* 23 p. 104]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A104.jpg/pct:7.50193,40.85437,62.71471,4.9987/full/0/default.jpg)
+![*Codex Palatinus* 23 p. 104](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A104.jpg/pct:7.50193,40.85437,62.71471,4.9987/full/0/default.jpg)
 
 θερμαίνει μ᾽ ὁ καλὸς Κορνήλιος: ἀλλὰ φοβοῦμαι  
 τοῦτο τὸ φῶς, ἤδη πῦρ μέγα γιγνόμενον.  
@@ -57,7 +57,7 @@ O belo Cornélio me aquece, mas eu temo essa chama, pois ela já se tornou um gr
 
 <p> - Lemma: ἐρωτομανές </p>
 
-![*Codex Palatinus* 23 p. 121]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A121.jpg/pct:14.12117,38.62899,16.44841,2.07968/full/0/default.jpg)
+![*Codex Palatinus* 23 p. 121](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A121.jpg/pct:14.12117,38.62899,16.44841,2.07968/full/0/default.jpg)
 
 <p> - Lemmatiste: C </p>
 
@@ -105,7 +105,7 @@ Lídia, a que serve a três homens em um mesmo momento, - um no buraco de cima, 
 
 ![*Codex Palatinus* 23 p. 96](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A096.jpg/pct:69.37858,41.63885,10.89166,2.28194/full/0/default.jpg)
 
-<p>- Lemma: εἰς Δωρίδα τὴν πόρνην : πορνικώτατον </p> 
+<p> - Lemma: εἰς Δωρίδα τὴν πόρνην : πορνικώτατον </p> 
 
 ![*Codex Palatinus* 23 p. 96](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A096.jpg/pct:68.34951,41.73404,19.80583,6.12266/full/0/default.jpg)
 
@@ -155,7 +155,7 @@ Procure Lisímaco, o amigo adúltero, aquele que, por ter piedade de você, se l
 ### 5.76
 <p> - τοῦ αὐτοῦ (Rufin) </p>
 
-![*Codex Palatinus* 23 p 99]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A099.jpg/pct:11.54939,37.64258,12.41912,2.13361/full/0/default.jpg)
+![*Codex Palatinus* 23 p 99](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A099.jpg/pct:11.54939,37.64258,12.41912,2.13361/full/0/default.jpg)
   
 <p>- Lemma: εἰς πόρνην γηράσασαν: σκωπτικόν </p>
 
@@ -331,11 +331,11 @@ ou precisam cortar as bolas do outro com um machado.
 ### 5.204 
 <p> - Μελεάγρου </p>
 
-![*Codex Palatinus* 23 p. 204]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:70.51109,19.3106,15.14721,2.06193/full/0/default.jpg)
+![*Codex Palatinus* 23 p. 204](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:70.51109,19.3106,15.14721,2.06193/full/0/default.jpg)
 
 <p> - Lemma: εἰς Τιμάριον ἑταίραν · τωθαστικόν </p>
 
-![*Codex Palatinus* 23 p. 204]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:69.97508,20.76483,18.67215,4.71011/full/0/default.jpg)
+![*Codex Palatinus* 23 p. 204](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:69.97508,20.76483,18.67215,4.71011/full/0/default.jpg)
 
 - Lemmatiste: C
 
