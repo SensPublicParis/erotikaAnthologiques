@@ -321,9 +321,19 @@ Certamente ou eu não tenho nada na cabeça,
 ou precisam cortar as bolas do outro com um machado.
 
 ### 5.204 
-- Μελεάγρου
-- Lemma: εἰς Τιμάριον ἑταίραν · τωθαστικόν
+<p> - Μελεάγρου </p>
+
+![*Codex Palatinus* 23 p. 204]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:70.51109,19.3106,15.14721,2.06193/full/0/default.jpg)
+
+<p> - Lemma: εἰς Τιμάριον ἑταίραν · τωθαστικόν </p>
+
+![*Codex Palatinus* 23 p. 204]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:69.97508,20.76483,18.67215,4.71011/full/0/default.jpg)
+
 - Lemmatiste: C
+
+---
+
+![*Codex Palatinus* 23 p. 204](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:6.966,18.40049,64.36464,20.08459/full/0/default.jpg)
 
 οὐκέτι, Τιμάριον, τὸ πρὶν γλαφυροῖο κέλητος,  
 πῆγμα φέρει πλωτὸν Κύπριδος εἰρεσίην,  
@@ -344,6 +354,37 @@ Desafortunado você que, ainda estando vivo, navegará o lago de Arqueronte indo
 
 ## μανίας μεστὸν καὶ θαυμαστικόν
 ### 5.132
+<p>- Τοῦ αὐτοῦ (Philodème de Gadara) </p>
+
+![*Codex Palatinus* 23 p. 106](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A106.jpg/pct:71.07313,59.67748,14.17623,2.18689/full/0/default.jpg)
+
+<p>- εἰς τὴν αὐτὴν Ξανθίππην · μανίας μεστὸν καὶ θαυμαστικόν </p>
+   <p> - À propros de la scholie, Waltz écrit: « falsum, ut ex u. 7-8 apparet. » (Waltz, Anthologie Grecque Tome 2, p. 66) </p>
+
+![*Codex Palatinus* 23 p. 106](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A106.jpg/pct:71.10519,61.82282,18.48256,6.98807/full/0/default.jpg)
+ 
+- Lemmatiste: C
+
+---
+
+![*Codex Palatinus* 23 p. 106](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A106.jpg/pct:8.76787,60.10843,63.59223,16.24379/full/0/default.jpg)
+
+ὦ ποδός, ὦ κνήμης, ὦ τῶν ἀπόλωλα δικαίως
+μηρῶν, ὦ γλουτῶν, ὦ κτενός, ὦ λαγόνων,
+ὦ ὤμοιν, ὦ μαστῶν, ὦ τοῦ ῥαδινοῖο τραχήλου,
+ὦ χειρῶν, ὦ τῶν μαίνομαι ὀμματίων,
+ὦ κατατεχνοτάτου κινήματος, ὦ περιάλλων
+γλωττισμῶν, ὦ τῶν θῦ᾽ ἐμὲ φωναρίων.
+εἰ δ᾽ Ὀπικὴ καὶ Φλῶρα καὶ οὐκ ᾁδουσα τὰ Σαπφοῦς,
+καὶ Περσεὺς Ἰνδῆς ἠράσατ᾽ Ἀνδρομέδης.
+
+Ah, o pé; oh, a perna; é, eu certamente morreria por essas coxas;  
+ai, o bumbum; meu deus, os pelinhos da púbis; nossa, as nádegas;  
+hum, os ombros; puxa, os seios; delicía, o delicado pescoço; e as mãos ...   
+Que isso, eu vou enlouquecer com esses olhinhos; ufa, os movimentos sensuais.  
+Pqp, os envolventes beijos quentes; uau, a vozinha que me atiça.  
+E se ela é de uma buraqueira florida e não celebra os mistérios de Sapho?  
+Ora, Perseus amou a indiana Andrômeda!
 
 ## θαυμάσιον
 ### 5.166
