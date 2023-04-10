@@ -396,12 +396,53 @@ Ora, Perseus amou a indiana Andrômeda!
 
 ## θαυμάσιον
 ### 5.166
+<p> - Τοῦ αὐτοῦ (Mélagre) </p> 
+
+![*Codex Palatinus* 23 p. 111](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A111.jpg/pct:12.16448,34.30869,12.86666,2.46258/full/0/default.jpg)
+
+<p> - εἰς τὴν αὐτήν · θαυμάσιον, ἔρωτος ἔμπλεων </p> 
+
+![*Codex Palatinus* 23 p. 111](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A111.jpg/pct:11.42014,36.51373,17.0803,4.63544/full/0/default.jpg)
+
+- Lemmatiste: C
+
+---
+
+![*Codex Palatinus* 23 p. 111](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A111.jpg/pct:24.80392,35.3771,67.29809,15.8591/full/0/default.jpg)
+
+ὦ Νύξ, ὦ φιλάγρυπνος ἐμοὶ πόθος Ἡλιοδώρας,
+καὶ † σκολιῶν ὄρθρων κνίσματα δακρυχαρῆ,
+ἆρα μένει στοργῆς ἐμὰ λείψανα, καὶ τὸ φίλημα
+μνημόσυνον ψυχρᾷ θάλπετ᾽ ἐν εἰκασίᾳ;
+ἆρά γ᾽ ἔχει σύγκοιτα τὰ δάκρυα, κἀμὸν ὄνειρον
+ψυχαπάτην στέρνοις ἀμφιβαλοῦσα φιλεῖ;
+ἢ νέος ἄλλος ἔρως, νέα παίγνια; μήποτε, λύχνε,
+ταῦτ᾽ ἐσίδῃς, εἴης δ᾽ ἧς παρέδωκα φύλαξ. (Paton)
+
+ὦ Νύξ, ὦ φιλάγρυπνος ἐμοὶ πόθος Ἡλιοδώρας,
+καὶ σκολιῶν ὄρρων κνίσματα δακρυχαρῆ,
+ἆρα μένει στοργῆς ἐμὰ λείψανα, καὶ τὸ φίλημα
+μνημόσυνον ψυχρᾷ θάλπετ᾽ ἐν εἰκασίᾳ;
+Ἆρά γ᾽ ἔχει σύγκοιτα τὰ δάκρυα κἀμὸν ὄνειρον
+ψυχαπάτην στέρνοις ἀμφιβαλοῦσα φιλεῖ;
+ἢ νέος ἄλλος ἔρως, Νέα παίγνια μήποτε, λύχνε,
+ταῦτ᾽ ἐσίδῃς, εἴης δ᾽ ἧς παρέδωκα φύλαξ. (Waltz)
+
+Ó Noite, ó meu amor insone por Heliodora
+e as discussões chorosas de tumultuadas manhãs passadas, 
+por acaso permanecem restos do meu amor 
+e a lembrança de um beijo aquece a fria imagem?
+Ora, por acaso ela tem as lágrimas como amantes
+e aperta contra o peito e ama uma ilusão minha que engana a alma?
+Ou já tem um novo outro amor? Jamais, lâmpada, 
+veja essas novas brincadeiras, mas seja guardiã daquela que anteriormente eu te dei.
 
 ## θαυμαστόν
 ### 5.178
 - Μελεάγρου
 - Lemma: ὁμοίως ἐπηρεαστικὸν · εἰς Ἔρωτα · θαυμαστόν
 - Lemmatiste: C
+
 ### 5. 270
 
 
