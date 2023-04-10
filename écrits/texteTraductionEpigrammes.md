@@ -25,9 +25,9 @@ Les cas où le dictionnaire ne trouve pas le mot: souvent des noms propres <!-- 
 
 --- 
 
-Édition pluriprésentationnelle
+Édition pluriprésentationnelle: présenter l'AP comme un lieu de remédiation
 
-Présenter l'AP comme un lieu de remédiation
+Pluriprésentationnelle parce qu'elle fait de la remédiation? Si c'est le cas, pourquoi apporter le concept de pluriprésentationnelle ?
 
 Concept de pluriprésentationnelle -> une anthologie est essentiellement pluriprésentationnelle parce qu'elle fait de la remédiation.
 
@@ -37,13 +37,16 @@ Une définition d'anthologie:
 
 > the anthology can be read as a *form* that gives a *structure* to narrative *content* in relation to a cultural, social, economic *context*, among others (p. 34) (Redefining the anthology)
 
+Présentation des éditions du texte de 5.55
+
+Est mieux traduire par fleur ou par vulva?
+
 ---
 
 La censure ou comment traduire le pornographique
 
 1. La censure? Comment traduire ces epigrammes qui parfois sont très explicites? Est-ce il faut avoir cette préocupation?
-2. Comment traduire des sentiments à des sociétés autant différentes?
+2. Comment les autres traducteurs ont vu la question ? Paton traduit vers le latin. Waltz traduit vers le français. Quel est le choix de mots de Waltz?
+3. Comment traduire des sentiments à des sociétés autant différentes?
 
--- -
-
-Le pornikotaton
+Le pornikotaton est à cause du jeu avec fleur-vulva?
