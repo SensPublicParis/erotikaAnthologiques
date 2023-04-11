@@ -36,4 +36,33 @@ Critique biographique: ce qui est à chercher est l'homme, à découvrir l'emiss
 
 Un mirage: l'idée d'une vie autonome des formes, esthétique ou littéraires. Comme si celles-ci auraient leur histoire et leur évolution propres, hors l'histoire et l'évolution des sociétés.
 
-Le phénomène artistique ne peut pas être reduit à la lutte de classe. Il y en a un rapport esthétique aussi
+Le phénomène artistique ne peut pas être reduit à la lutte de classe. Il y en a un rapport esthétique aussi.
+
+La beauté est fondamentale au phénomène littéraire?
+
+Le plaisir esthétique est de la compréhension intelectuelle? 
+
+> il est difficile de ne pas voir le lien entre la notion "dominante" qu'on tente d'imposer de la Science, l'opposition radicale entre cette dernière et l'"humain", le plaisir, la jouissance, et la politique de la Recherche actuellement pratiquée (p. 41)
+
+Il n'y a pas de joie dans la pratique scientifique? Comment une analyse scientifique de la littérature si on ne peut pas avoir du plaisir avec la littérature? 
+
+Art et plaisir ou connaissance sans plaisir !
+
+La thèse du texte est autre. Ici, l'art est un mode de connaissance autre que la science. Elle n'est ni meilleure, ni pire. Elle est autre
+
+> l'art est un *mode de connaissance* et d'action, différent de la science à laquelle on ne peut ni ne pourra l'identifier, qui répond à des besoins sociaux et individuels qu'aucun type de domination par une classe n'a pu étouffer et qui sont appelés à se développer de plus en plus. (p. 43)
+
+L'art peut être un outil révolutionnaire de connaissance et de transformation du monde. Par contre, elle peut être aussi un instrument de domination aux mains de la classe dominante. Or, on voit ça clairement aux films de super-héros. Là, ce n'est pas une façon de penser le monde autrement, de nous regard en tant qu'humains et notre relations avec les autres et l'environnement. Ces films-là, ils renforcent l'idéologie capitaliste la plus dure.
+
+> cerner la notion de texte littéraire comme œuvred de langage répondant à des besoins esthétiques, compte tenu de la contradiction que l'on vient d'évoquer. (p. 45)
+
+Une définition atemporelle de texte est illusoire. Or, donc une définition atemporelle d'épigramme est illusoire aussi.
+
+> il est nécessaire d'étudier le phénomène littéraire dans son fonctionnement afin de dégager par là les éléments qui permettent de cerner ce qu'est, à chaque époque, ce travail particulier de l'écriture qui est celui des écrivains, ce que sont à chaque époque les textes, quel est leur impact spécifique, bref de dégager ce en quoi les œuvres d'écriture ont, en tant "qu'œuvres d'art" un rôle spécifique comme mode de connaissance et de transformation. (p. 45)
+
+Le phénomène littéraire est: 
+1. un fait social
+2. situé dans les superstructures
+3. entretient certains rapports avec d'autres éléments des superstructures
+
+L'œuvre littéraire n'est pas un reflet de la realité.
