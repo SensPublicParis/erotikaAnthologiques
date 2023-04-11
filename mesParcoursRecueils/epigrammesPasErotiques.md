@@ -439,9 +439,52 @@ veja essas novas brincadeiras, mas seja guardiã daquela que anteriormente eu te
 
 ## θαυμαστόν
 ### 5.178
-- Μελεάγρου
-- Lemma: ὁμοίως ἐπηρεαστικὸν · εἰς Ἔρωτα · θαυμαστόν
-- Lemmatiste: C
+<p> - Τοῦ αὐτοῦ (Méléagre) </p>
+
+![*Codex Palatinus* 23 p. 113](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A113.jpg/pct:12.09038,39.38727,13.88595,2.63564/full/0/default.jpg)
+
+<p>- Lemma: ὁμοίως ἐπηρεαστικὸν · εἰς Ἔρωτα · θαυμαστόν </p>
+
+![*Codex Palatinus* 23 p. 113](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A113.jpg/pct:11.53404,41.48636,16.47835,5.64944/full/0/default.jpg)
+
+<p> - Lemmatiste: C </p>
+
+---
+
+![*Codex Palatinus* 23 p. 113](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A113.jpg/pct:25.48221,40.37711,66.46036,19.89108/full/0/default.jpg)
+
+Πωλείσθω, καὶ ματρὸς ἔτ᾽ ἐν κόλποισι καθεύδων,
+πωλείσθω. τί δέ μοι τὸ θρασὺ τοῦτο τρέφειν;
+καὶ γὰρ σιμὸν ἔφυ καὶ ὑπόπτερον, ἄκρα δ᾽ ὄνυξιν
+κνίζει, καὶ κλαῖον πολλὰ μεταξὺ γελᾷ:
+πρὸς δ᾽ ἔτι λοιπὸν ἄθρεπτον, ἀείλαλον, ὀξὺ δεδορκός,
+ἄγριον, οὐδ᾽ αὐτῇ μητρὶ φίλῃ τιθασὸν
+πάντα τέρας, τοιγὰρ πεπράσεται. εἴ τις ἀπόπλους
+ἔμπορος ὠνεῖσθαι παῖδα θέλει, προσίτω.
+καίτοι λίσσετ᾽, ἰδού, δεδακρυμένος. οὒ ς᾽ ἔτι πωλῶ:
+θάρσει: Ζηνοφίλᾳ σύντροφος ὧδε μένε, (Paton)
+
+Πωλείσθω, καὶ ματρὸς ἔτ᾽ ἐν κόλποισι καθεύδων·
+πωλείσθω. Τί δέ μοι τὸ θρασὺ τοῦτο τρέφειν;
+Καὶ γὰρ σιμὸν ἔφυ καὶ ὑπόπτερον· ἄκρα δ᾽ ὄνυξιν
+κνίζει, καὶ κλαῖον πολλὰ μεταξὺ γελᾷ·
+πρὸς δ᾽ ἔτι λοιπὸν ἄτρεπτον, ἀείλαλον, ὀξὺ δεδορκός,
+ἄγριον, οὐδ᾽ αὐτῇ μητρὶ φίλᾳ τιθασὸν·
+πάντα τέρας. Τοιγὰρ πεπράσεται. Εἴ τις ἀπόπλους
+ἔμπορος ὠνεῖσθαι παῖδα θέλει, προσίτω.
+Καίτοι λίσσετ᾽, ἰδού, δεδακρυμένος. Οὒ ς᾽ ἔτι πωλῶ·
+θάρσει· Ζηνοφίλᾳ σύντροφος ὧδε μένε. (Waltz)
+
+Venda! Mas ele ainda dorme no colo da mãe ...
+Venda! Por que cabe a mim alimentar esse travesso?
+Ora, ele nasceu narigudo e alado.
+Ele arranha profundamente com as unhas e, enquanto chorava bastante, ele ri.
+E ainda por cima, permanece subnutrido, balbuciante, de olhar agudo e selvagem. 
+Nem por sua própria amada mãe foi domesticado. 
+Completamente uma besta selvagem. Logo, será negociado. 
+Se algum comerciante navegante deseja comprar a criança, que se aproxime!
+Agora pronto, eis que ele suplica enquanto chora. 
+Não te vendo ainda, tenha confiança. Fique, e assim será companheiro de Zenófila.
 
 ### 5. 270
 
