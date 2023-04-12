@@ -63,8 +63,9 @@ Est mieux traduire par fleur ou par vulva?
 
 Comment traduire le *pornikotaton*
 
-1. La censure? Comment traduire ces epigrammes qui parfois sont très explicites? Est-ce il faut avoir cette préocupation?
-2. Comment les autres traducteurs ont vu la question ? Paton traduit vers le latin. Waltz traduit vers le français. Quel est le choix de mots de Waltz?
-3. Comment traduire des sentiments à des sociétés autant différentes?
+1. Comment les autres traducteurs ont vu la question ? Paton traduit vers le latin. Waltz traduit vers le français. Quel est le choix de mots de Waltz?
+2. La censure? Comment traduire ces epigrammes qui parfois sont très explicites? Est-ce il faut avoir cette préocupation?
+3. Les mots au texte grec sont déjà vulgaires? Si ils le sont, ils doivent rester ainsi à la traduction?
+4. Comment traduire des sentiments à des sociétés autant différentes?
 
-Le pornikotaton est à cause du jeu avec fleur-vulva?
+Ma thèse à cette partie (je dois l'annonce au début du texte) est que cette épigramme est *pornikotaton* parce qu'elle joue avec la métaphore de la fleur. Il y en a d'autres épigrammes plus explicites, il y en a autres épigrammes plus obscènes et qui "dérangent" plus la morale.
