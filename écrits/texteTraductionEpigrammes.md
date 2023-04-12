@@ -2,11 +2,28 @@
 title: Au numérique, je traduis des amours grecs vers le portugais
 --- 
 
-Le but de ce texte est discuter un peu de ma expérience de traduction des épigrammes de l'Anthologie Palatine vers le portugais. 
+Le but de ce texte est discuter un peu de ma expérience de traduction de l'épigramme 5.55 de l'Anthologie Palatine vers le portugais. 
 
 J'ai crée un article Stylo [ici](https://stylo.huma-num.fr/article/6412309ba12b9d0012ebb0d1/preview)
 
 ---
+
+*Sujet: la traduction de l'épigramme 5.55 vers le portugais à *Anthologia*
+Introduction - la question de la traduction
+Les outils numériques
+L'édition pluriprésentationelle
+Comment traduire le *pornikotaton*
+
+---
+
+Introduction
+
+La question de la traduction: s'approcher le plus possible du texte en grec
+Toute traduction est un intertexte
+Intertextualité --> Relation de coprésence entre deux ou plusieurs textes (Penser le palympseste numérique)
+
+---
+
 La traduction automatique et ses outils
 
 Une traduction faite avec le support des outils numériques, mais quand même très distante de la traduction automatique.  
@@ -43,7 +60,7 @@ Est mieux traduire par fleur ou par vulva?
 
 ---
 
-La censure ou comment traduire le pornographique
+Comment traduire le *pornikotaton*
 
 1. La censure? Comment traduire ces epigrammes qui parfois sont très explicites? Est-ce il faut avoir cette préocupation?
 2. Comment les autres traducteurs ont vu la question ? Paton traduit vers le latin. Waltz traduit vers le français. Quel est le choix de mots de Waltz?
