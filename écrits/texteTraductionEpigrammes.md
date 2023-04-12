@@ -8,11 +8,12 @@ J'ai crée un article Stylo [ici](https://stylo.huma-num.fr/article/6412309ba12b
 
 ---
 
-*Sujet: la traduction de l'épigramme 5.55 vers le portugais à *Anthologia*
-Introduction - la question de la traduction
-Les outils numériques
-L'édition pluriprésentationelle
-Comment traduire le *pornikotaton*
+*Sujet: la traduction de l'épigramme 5.55 vers le portugais à *Anthologia** 
+
+Introduction - la question de la traduction  
+Les outils numériques  
+L'édition pluriprésentationelle  
+Comment traduire le *pornikotaton*  
 
 ---
 
