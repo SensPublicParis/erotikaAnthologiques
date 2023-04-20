@@ -10,10 +10,14 @@ J'ai crée un article Stylo [ici](https://stylo.huma-num.fr/article/6412309ba12b
 
 *Sujet: la traduction de l'épigramme 5.55 vers le portugais à *Anthologia** 
 
-Introduction - la question de la traduction  
-Les outils numériques  
-L'édition pluriprésentationelle  
-Comment traduire le *pornikotaton*  
+Introduction - 
+1. Comment les autres traducteurs on traduit cette épigramme
+2. L'édition pluriprésentationelle
+3. Les outils numériques   
+4. Comment traduire le *pornikotaton* 
+4.1 La question de la traduction
+4.2 Quels sont les moyens utilisés par Dioscoride en tant que pornographe pour amener son lecteur à la jouissance.
+Doris arrive à la jouissance. Le lecteur y arrive aussi?
 
 ---
 
