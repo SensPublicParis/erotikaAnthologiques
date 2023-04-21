@@ -66,3 +66,22 @@ Le phénomène littéraire est:
 3. entretient certains rapports avec d'autres éléments des superstructures
 
 L'œuvre littéraire n'est pas un reflet de la realité.
+
+> L'idéologie a pour charge de constituer les intérêts de la classe dominante en "valeurs" universelles (morales, spirituelles, esthétiques...), et de justifier celles-ci (p. 53)
+
+C'est à l'idéologie le rôle d'absorber les éléments extérieurs qui la menancent. Ces éléments sont dénaturés, réduits, pour entrer dans le systeme maintenu par l'idéologie
+
+L'idéologie doit nécessairement se présenter comme un valeur universelle, valable pour ceux qu'elle sert et pour ceux qu'elle exploite.
+Avoir le monopole de l'idéologie.
+Cela veut dire qu'il n'y a que l'idéologie dominante.
+Même les alternatives "reformistes" sont absorbées par l'idéologie.
+
+> Ce n'est pas au seul moment de la lecture ou même du choix des "textes littéraires" que la classe dominante conditionne les données, les limites et les moyens du phénomène littéraire. (p. 58)
+
+Or, la classe dominante possède les maisons d'édition, elle octroie des prix, elle paie le salaire des écrivains, elle determine la quantité de temps libre que l'ouvrier peut dédier à la lecture.
+
+Parmi tous les moyens d'action de la classe dominante, l'École est le plus important. C'est là qu'elle enseigne le "phénomène littéraire"
+
+> Précisons toute de suite que, cependant, la classe dominante ne *parvient pas* à le déterminer entièrement, qu'il s'agit d'une tendance; et que l'École ne *joue pas parfaitement* le rôle qui lui est assigné \[...] l'enseignement du français (langue et littérature) est divisé en cycles correspondant chacun à des publics différents, non pas tant par leur âge que par la place qu'ils occuperont respectivement dans la production. (p. 59)
+
+Ne c'est que à l'université qu'on apprend à voir la langue comme un outil et moyen d'expression et la littérature et les auteurs avec quelque distance critique.
