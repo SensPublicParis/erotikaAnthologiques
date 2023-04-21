@@ -10,14 +10,22 @@ J'ai crée un article Stylo [ici](https://stylo.huma-num.fr/article/6412309ba12b
 
 *Sujet: la traduction de l'épigramme 5.55 vers le portugais à *Anthologia** 
 
-Introduction - 
-1. Comment les autres traducteurs on traduit cette épigramme
-2. L'édition pluriprésentationelle
+Introduction
+
+1. L'édition pluriprésentationelle
+2. Comment les autres traducteurs on traduit cette épigramme
 3. Les outils numériques   
 4. Comment traduire le *pornikotaton* 
-4.1 La question de la traduction
-4.2 Quels sont les moyens utilisés par Dioscoride en tant que pornographe pour amener son lecteur à la jouissance.
+5.1 La question de la traduction
+6.2 Quels sont les moyens utilisés par Dioscoride en tant que pornographe pour amener son lecteur à la jouissance.
+
 Doris arrive à la jouissance. Le lecteur y arrive aussi?
+Art et plaisir ou connaissance sans plaisir ! La thèse du texte est autre. Ici, l'art est un mode de connaissance autre que la science. Elle n'est ni meilleure, ni pire. Elle est autre
+> l'art est un *mode de connaissance* et d'action, différent de la science à laquelle on ne peut ni ne pourra l'identifier, qui répond à des besoins sociaux et individuels qu'aucun type de domination par une classe n'a pu étouffer et qui sont appelés à se développer de plus en plus. (VERNIER p. 43)
+Dans ce cadre, l'épigramme érotique devient un mode de connaissance de la pratique sexuelle. 
+Or, le texte dévoile l'acte du début -- *ιατείνας ἄνθεσιν ἐν χλοερoῖς* -- à la fin -- μέχρις ἀπεσπείσθη λευκὸν μένος ἀμφοτέροισιν, καὶ Δωρὶς παρέτοις ἐξεχύθη μέλεσι.  La fin du sexe est la jouissance, l'arrivé au plaisir.
+Ainsi, c'est possible parler d'une "esthétique pornographique" (DI FOLCO)
+
 
 ---
 
