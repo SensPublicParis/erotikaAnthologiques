@@ -487,13 +487,54 @@ Agora pronto, eis que ele suplica enquanto chora.
 Não te vendo ainda, tenha confiança. Fique, e assim será companheiro de Zenófila.
 
 ### 5. 270
+<p>- Παύλου Σιλεντιαρίου</p>
 
+![*Codex Palatinus* 23 p. 131](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A131.jpg/pct:11.18155,68.93849,18.01356,2.85747/full/0/default.jpg)
+
+<p>- Lemma: ὡραῖον</p>
+
+![*Codex Palatinus* 23 p. 131](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A131.jpg/pct:5.32059,67.62013,5.10325,3.96033/full/0/default.jpg)
+
+- Lemmatiste: C
+
+---
+
+![*Codex Palatinus* 23 p. 131](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A131.jpg/pct:26.37865,68.71438,59.61885,9.49754/full/0/default.jpg)
+
+![*Codex Palatinus* 23 p. 132](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A132.jpg/pct:11.35275,12.66317,60.89671,12.67561/full/0/default.jpg)
+
+Οὔτε ῥόδον στεφάνων ἐπιδεύεται, οὔτε σὺ πέπλων,    
+οὔτε λιθοβλήτων, πότνια, κεκρυφάλων.    
+Μάργαρα σῆς χροιῆς ἀπολείπεται, οὐδὲ κονίζει^[aqui, eu utilizei o κομίζει do texto de Paton]  
+χρυσὸς ἀπεκτήτου σῆς τριχὸς ἀγλαΐην·  
+Ἰνδῴη δ᾽ ὑάκινθος ἔχει χάριν αἴθοπος αἴγλης,  
+ἀλλὰ τεῶν λογάδων πολλὸν ἀφαυροτέρην.  
+Χείλεα δὲ δροσόεντα καὶ ἡ μελίφυρτος ἐκείνη  
+στήθεος ἁρμονίη κεστὸς ἔφυ Παφίης.  
+Τούτοις πᾶσιν ἐγὼ καταδάμναμαι· ὄμμασι μούνοις  
+θέλγομαι, οἷς ἐλπὶς μείλιχος ἐνδιάει.  
+
+A rosa não tem necessidade da coroa, nem você, minha rainha, precisa de roupas finas ou de véus ornados com joias.
+As pérolas são superadas por sua pele, e o ouro não carrega a beleza de seus cabelos despenteados.
+O rubi indiano tem o charme de um brilho ardente, mas ele é muito débil em comparação com o brilho dos seus olhos.
+E os lábios úmidos e a harmonia doce como o mel dos seus seios, cinto bordado feito pela deusa de Paphos ...
+Eu perco o fôlego com tudo isso, e me encanto com os olhos sozinhos, nos quais a doce esperança brilha.
 
 ## τοῦτο οὐκ ἐρωτικὸν, ἀλλὰ καπηλικὸν καὶ κώμου μεστόν
 ### 5.181
-- Ἀσκληπιάδου
-- Lemma: τοῦτο οὐκ ἐρωτικὸν, ἀλλὰ καπηλικὸν καὶ κώμου μεστόν
-- Lemmatiste: C
+<p> - Ἀσκληπιάδου </p>
+
+![*Codex Palatinus* 23 p. 114](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A114.jpg/pct:69.01661,30.47361,11.04441,3.51451/full/0/default.jpg)
+
+<p> - Lemma: τοῦτο οὐκ ἐρωτικὸν, ἀλλὰ καπηλικὸν καὶ κώμου μεστόν </p>
+
+![*Codex Palatinus* 23 p. 114](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A114.jpg/pct:68.26526,33.51321,19.41903,5.43105/full/0/default.jpg)
+
+<p> - Lemmatiste: C </p>
+
+---
+
+![*Codex Palatinus* 23 p. 144](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A114.jpg/pct:7.24444,30.30372,62.14517,23.83372/full/0/default.jpg) 
 
 τῶν † καρίων ἡμῖν λάβε † κώλακας ῾ἀλλὰ πόθ᾽ ἤξεἰ,  
 καὶ πέντε στεφάνους τῶν ῥοδίνων. τί τὸ Πάξ;  
@@ -518,15 +559,92 @@ Não te vendo ainda, tenha confiança. Fique, e assim será companheiro de Zenó
 
 ## ὀψώνιον
 ### 5.185
+<p> - Ἀσκληπιάδου </p>
+
+![*Codex Palatinus* 23 p. 115](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A115.jpg/pct:11.20549,32.36073,10.45605,3.06067/full/0/default.jpg)
+
+<p> - ἐπὶ πόρνῃ · ὀψώνιον </p>
+
+![*Codex Palatinus* 23 p. 115]( http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A115.jpg/pct:10.66479,35.11348,15.19921,3.91115/full/0/default.jpg)
+
+<p>- Lemmatiste: C</p>
+
+---
+
+![*Codex Palatinus* 23 p. 115](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A115.jpg/pct:24.76961,32.31098,64.41102,12.25265/full/0/default.jpg)
+
+εἰς ἀγορὰν βαδίσας, Δημήτριε, τρεῖς παρ᾽ Ἀμύντου
+γλαυκίσκους αἴτει, καὶ δέκα φυκίδια
+καὶ κυφὰς καρῖδας (ἀριθμήσῃ δέ σὺ καὐτός）
+εἴκοσι καὶ τέτορας δεῦρο λαβὼν ἄπιθι.
+καὶ παρὰ Θαυβορίου ῥοδίνους ἓξ πρόσλαβε ...
+καὶ Τρυφέραν ταχέως ἐν παρόδῳ κάλεσον.
+
+Demétrio, vá até o mercado e, no Amyntos, peça três obladas e dez pequenas tainhas,
+e, após pegar vinte e quatro lagostins arqueados (você mesmo os contará), volte aqui.
+Mas, no Thauborios, adquira seis buquês de rosas ... e, no caminho, chame rapidamente a delicada Tryphera.
 
 ## ζηλότυπον καὶ μανίας μεστόν
 ### 5.191
+<p> - Τοῦ αὐτοῦ (Méléagre)</p>
+
+![*Codex Palatinus* 23 p. 116](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A116.jpg/pct:71.31924,18.74753,11.73597,1.95595/full/0/default.jpg)
+
+<p>- εἰς ἑταίραν ἄσωτον · ζηλότυπον καὶ μανίας μεστόν</p>
+
+![*Codex Palatinus* 23 p. 116](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A116.jpg/pct:70.91835,20.36766,15.40117,6.89441/full/0/default.jpg)
+
+<p>- Lemmatiste: C</p>
+
+----
+
+![*Codex Palatinus* 23 p. 116](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A116.jpg/pct:7.41233,18.60278,60.77272,15.73121/full/0/default.jpg)
+
+ἄστρα, καὶ ἡ φιλέρωσι καλὸν φαίνουσα Σελήνη,
+καὶ Νύξ, καὶ κώμων σύμπλανον ὀργάνιον,
+ἆρά γε τὴν φιλάσωτον ἔτ᾽ ἐν κοίταισιν ἀθρήσω
+ἄγρυπνον, λύχνῳ πόλλ᾽ ἀποκλαομένην;
+ἦ τιν᾽ ἔχει σύγκοιτον ; ἐπὶ προθύροισι μαράνας
+δάκρυσιν ἐκδήσω τοὺς ἱκέτας στεφάνους,
+ἓν τόδ᾽ ἐπιγράψας:
+Κύπρι, σοὶ Μελέαγρος, ὁ μύστης
+σῶν κώμων, στοργῆς σκῦλα τάδ᾽ ἐκρέμασεν. (Paton)
+
+Ἄστρα καὶ ἡ φιλέρωσι καλὸν φαίνουσα Σελήνη
+καὶ Νὺξ καὶ κώμων σύμπλανον ὀργάνιον,
+ἆρά γε τὴν φιλάσωτον ἔτ᾽ ἐν κοίταισιν ἀθρήσω
+ἄγρυπνον λύχνῳ, πόλλ᾽ ἀποδυρομένην;
+Ἤ τιν᾽ ἔχει σύγκοιτον ; Ἐπὶ προθύροισι μαράνας
+δάκρυσιν ἐκδήσω τοὺς ἱκέτας στεφάνους,
+ἓν τόδ᾽ ἐπιγράψας· «Κύπρι, σοὶ Μελέαγρος, ὁ μύστης
+σῶν κώμων, στοργῆς σκῦλα τάδ᾽ ἐκρέμασεν». (Waltz)
+
+Oh, as estrelas e a lua que com beleza iluminam os amantes 
+e também a noite e o pequeno instrumento errante das orgias,
+por acaso verei a promíscua ainda em seu leito, 
+desperta e chorando copiosamente à luz de vela?
+Ou ela tem alguém em sua cama? Consumindo-me em lágrimas, 
+irei amarrar em seus portões as coroas de súplicas, 
+onde terei escrito isto: "Para você, Cypris, 
+Meleagro, aquele que é iniciado em suas orgias, pendurou esses espólios do amor"
 
 ## ἀναθεματικόν
 ### 5.203
-- Ἀσκληπιάδου
-- Lemma: τουτ᾽οὐκ ἐρωτικὸν ἀλλ᾽ἀναθεματικ`
-- Lemmatiste: C
+<p>- Ἀσκληπιάδου</p>
+
+![*Codex Palatinus* 23 p. 117](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A117.jpg/pct:13.41795,71.97414,8.18894,2.85601/full/0/default.jpg)
+
+<p>- Lemma: τουτ᾽οὐκ ἐρωτικὸν ἀλλ᾽ἀναθεματικ`</p>
+
+![*Codex Palatinus* 23 p. 117](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A117.jpg/pct:13.3812,73.13666,14.81723,3.43483/full/0/default.jpg)
+
+<p>- Lemmatiste: C</p>
+
+---
+
+![*Codex Palatinus* 23 p. 117](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A117.jpg/pct:26.24936,71.06126,63.10942,6.54076/full/0/default.jpg)
+
+![*Codex Palatinus* 23 p. 118](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:10.15905,11.80509,60.20313,7.31972/full/0/default.jpg)
 
 Λυσιδίκη σοί, Κύπρι, τὸν ἱππαστῆρα μύωπα,  
 χρύσεον εὐκνήμου κέντρον ἔθηκε ποδός,  
@@ -538,9 +656,21 @@ Não te vendo ainda, tenha confiança. Fique, e assim será companheiro de Zenó
 Lysidikê consagrou a você, Cypris, o chicote de equitação, açoite dourado de torneadas pernas com o qual muito praticou a cavalgada invertida. Ela movendo-se com leveza, jamais suas coxas sequer ficaram ensanguentadas, já que não eram açoitadas para terminar o percurso. É por isso que ela pendurou para você na porta do meio o dourado instrumento.
 
 ### 5.205
-- Ἄδηλον
-- Lemma: εἰς Νικώ · ἔστι δὲ ἀναθεματικόν
-- Lemmatiste: C
+<p>- Ἄδηλον</p>
+
+![*Codex Palatinus* 23 p. 118](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:70.91865,37.98611,11.65049,2.39492/full/0/default.jpg)
+
+<p>- Lemma: εἰς Νικώ · ἔστι δὲ ἀναθεματικόν</p>
+
+![*Codex Palatinus* 23 p. 118](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:69.04985,39.84463,20.08626,4.88126/full/0/default.jpg)
+
+<p>- Lemmatiste: C</p>
+
+---
+
+![*Codex Palatinus* 23 p. 118](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:6.90616,37.42374,61.45158,12.49708/full/0/default.jpg)
+
+
 
 ## ἀποτρεπτικὸν παιδοφθορίας
 ### 5.208
