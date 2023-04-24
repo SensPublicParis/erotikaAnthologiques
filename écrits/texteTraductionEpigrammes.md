@@ -67,6 +67,9 @@ Comment traduire le *pornikotaton*
 2. La censure? Comment traduire ces epigrammes qui parfois sont très explicites? Est-ce il faut avoir cette préocupation?
 3. Les mots au texte grec sont déjà vulgaires? Si ils le sont, ils doivent rester ainsi à la traduction?
 4. Comment traduire des sentiments à des sociétés autant différentes?
+
+Pour traduire ce texte, l faut faire des choix. On présente les options qu'on avait et les choix qu'on a fait. 
+
 > l'écriture érotique ne doit pas être restituée, mais reproduite, c'est-à-dire rejouée au sein d'un récit nouveau, né d'un système de codes linguistiques et sexuels propre au lecteur-traducteur (DI FOLCO, p. 15)
 
 4.1 La question de la traduction
