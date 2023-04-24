@@ -1,7 +1,8 @@
 ---
-title: L'amour brûlant à l'*Couronne* de Méléagre - séquence d'épigrammes
-
+title: L'amour brûlant - séquence d'épigrammes
 --- 
+
+NOTE: IL FAUT METTRE DES ÉPIGRAMMES QUI NE SONT PAS À LA COURONNE DE MÉLÉAGRE. IL Y EN A BEAUCOUP D'ÉPIGRAMMES AUTOUR DU THÈME DE L'AMOUR BRULANT. AU LIVRE 5 ET AU LIVRE 12 !
 
 La traduction de toutes les épigrammes est celle de Pierre Waltz [@waltz_anthologie_1928]. Le texte grec est la version disponible à [Perseus](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0472%3Abook%3D5%3Achapter%3D1). Les images du manuscrit sont provenants du projet [Heidelberg historic literature - digitaze](https://digi.ub.uni-heidelberg.de/diglit/cpgraec23?ui_lang=ger) de la Biliothèque de Heidelberg.   
 
