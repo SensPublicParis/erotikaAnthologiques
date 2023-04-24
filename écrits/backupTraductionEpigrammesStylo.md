@@ -8,28 +8,26 @@ Le traducteur doit suivre des normes linguistiques de la langue cible, mais auss
 
 ## *Anthologia*, une édition pluriprésentationnelle
 
-[*Anthologia* est une édition pluriprésentationnelle de l'*Anthologie grecque*]{.these}. 
-L'édition pluriprésentationnelle est le rassemblement de « éditions conjointes d'un même texte obéissant à des modalites de présentation différentes »[@breuil_methodes_2019, p. 695] ; 
-elle est une édition où la remédiation est inhérente.
-Dans ce contexte, l'anthologie est une œuvre essentiellement pluriprésentationelle.
-
 <!-- est-ce que toute Anthologie est essentiellement pluriprésentationelle? -->
 
-*Anthologia* est une édition pluriprésentationnelle parce qu'elle fait de la remédiation de différentes éditions de l'*AG*, et chacune de ses éditions a ses propres caractéristiques de présentation. 
-Dans le cas de l'épigramme 5.55, *Anthologia* presente 7 éditions de la même épigramme -- *fac-similé*, Paton, Perseus, Waltz et 3 traductions. 
-Par exemple, au *fac-similé* du *CP*23, le texte fut manuellement écrit à un *codex*, ainsi on doit comprendre la graphie et l'écriture du copiste, et chaque vers du distique a une formatation particulière, le deuxième vers est en retrait par rapport au premier. 
-Aux éditions papiers de Paton, le texte change par rapport à la date de publication. Le texte publié en 1916 n'est pas le même que le texte revisé et publié en 2014. 
-À Perseus, le texte est majoritariement la version de 1916 de Paton. 
-Nonobstant, comme au cas de l'adjectif *χλοερῖς*, parfois le logiciel qui lit et numérise le texte crée une nouvelle version.
+[*Anthologia* est une édition pluriprésentationnelle de l'*Anthologie grecque*]{.these}. 
+[L'édition pluriprésentationnelle est le rassemblement de « éditions conjointes d'un même texte obéissant à des modalites de présentation différentes »[@breuil_methodes_2019, p. 695]]{.concept} ; 
+Une édition pluriprésentationnelle fait de la remédiation d'autres éditions.
+*Anthologia* remédie différentes éditions de l'*AG*, et chacune de ses éditions a ses propres caractéristiques de présentation.
 
-À *Anthologia*, l'épigramme est inscrite à multiples supports -- un parcours d'inscription qui commence aux papyrus et aujourd'hui est au système binaire <!-- le système binaire est le support? L'ordinateur est le support? --> .
-[Le *fac-similé* numérisé par la Bibliothèque de l'Université de Heidelberg]{.exemple} :
+[Au *fac-similé* du *CP*23, le texte fut manuellement inscrit à un *codex* -- ainsi on doit comprendre la graphie et l'écriture du copiste ; le deuxième vers du distique a une forme particulière -- il est en retrait par rapport au premier ;le texte des épigrammes est un grand bloc continuel :]{.exemple}
 
-![*Fac-similé* du *Codex Palatinus* 23, p. 96](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A096.jpg/pct:7.56231,40.887,60.77272,16.02525/full/0/default.jpg)
+![*Fac-similé* du *Codex Palatinus* 23, p. 96](https://user-images.githubusercontent.com/79371444/234120646-d5d581cb-1087-401d-bcfb-fa701a0649f7.png)
 
-[L’édition numérique de Perseus :]{.exemple}
+[L'édition numérique à Perseus est inscrite dans système binaire <!-- le système binaire est le support? L'ordinateur est le support? --> ; les deux vers du distique ont la même forme ; et le texte de l'épigramme est clairement individualisé :]{.exemple}
 
 ![Épigramme 5.55 à Perseus](https://user-images.githubusercontent.com/79371444/225750239-6a20c94a-3219-43d8-a74c-e07bfbd289fc.png)
+
+Les textes présentés sont multiples aussi.
+Dans le cas de l'épigramme 5.55, *Anthologia* aujourd'hui présente 4 versions du texte grec de la même épigramme -- *fac-similé*, Paton, Perseus et Waltz --  et les traductions vers l'anglais, le français et le portugais. 
+En plus, aux éditions papiers de Paton, le texte change par rapport à la date de publication. Le texte publié en 1916 n'est pas le même que le texte revisé et publié en 2014. 
+À Perseus, le texte est majoritariement la version de 1916 de Paton. 
+Nonobstant, comme au cas de l'adjectif *χλοερῖς*, parfois le logiciel qui lit et numérise le texte crée une nouvelle version.
 
 La plateforme *Anthologia* developpe un travail philologique et joue le role d'éditeur scientique. 
 [L'éditeur scientifique agence les différentes versions de l'œuvre. Il presente une édition du texte et fournit en paratexte autres lectures]{.concept}. 
@@ -99,6 +97,10 @@ Il traduit vers le latin parce qu'il juge que le texte a des propos qui peuvent 
 De cette façon, il faut limiter le nombre de lecteurs aux gens qui lisent le latin.
 Ces lecteurs -- les érudits, le clergé et les élites surtout -- sont censés d'être suffisament éclairés pour traiter le fait de l'écriture pornographique.
 De cette façon, le texte est traduit, mais il n'est pas compréhensible par tous.
+
+C'est intéressant de noter que dans l'édition révisée de Paton, l'épigramme est traduite vers l'anglais. 
+
+![Traduction vers l'anglais de 5.55[@paton_greek_2014]](https://user-images.githubusercontent.com/79371444/231554259-27631039-eccb-4ab9-b26c-d8d3e740ea18.jpeg)
 
 Waltz traduit l'épigramme 5.55 vers le français. <!-- qu'est-ce que je peux dire à propos de Waltz? --> 
 
