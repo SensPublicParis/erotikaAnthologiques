@@ -49,6 +49,7 @@ Une traduction faite avec le support des outils numériques, mais quand même tr
 Il faut trouver une bibliographie autour de la traduction automatique
 
 "La traduction automatique est un processus informatique où un texte dans une langue source est traduit vers une langue cible" 
+- Commentaire Marcello: laisser tomber l'idée de traduction automatique. Ce que je fais c'est de la traduction assistée par des outils numériques.
 
 Les trois étapes de la TA
 1. dictionnaire électronique - les dictionnaires et la lemmatisation
