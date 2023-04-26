@@ -670,13 +670,37 @@ Lysidikê consagrou a você, Cypris, o chicote de equitação, açoite dourado d
 
 ![*Codex Palatinus* 23 p. 118](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:6.90616,37.42374,61.45158,12.49708/full/0/default.jpg)
 
+ἴυγξ ἡ Νικοῦς, ἡ καὶ διαπόντιον ἕλκειν
+ἄνδρα καὶ ἐκ θαλάμων παῖδας ἐπισταμένη,
+χρυσῷ ποικιλθεῖσα, διαυγέος ἐξ ἀμεθύστου
+γλυπτή, σοὶ κεῖται, Κύπρι, φίλον κτέανον,
+πορφυρέης ἀμνοῦ μαλακῇ τριχὶ μέσσα δεθεῖσα,
+τῆς Λαρισσαίης ξείνια φαρμακίδος.
 
+Esse amuleto, esse de Niko, aquela que sabe arrastar  
+um homem através do mar e as crianças para fora de seus quartos,  
+é incrustado com ouro e gravado em ametista transparente;  
+objeto preciso, Cypris, é dedicado a você,  
+sendo amarrado em seu centro com doce lã púrpura,  
+é ele um presente da feiticeira de Larissa.
 
 ## ἀποτρεπτικὸν παιδοφθορίας
 ### 5.208
-- Μελεάγρου
-- Lemma: ἀποτρεπτικὸν παιδοφθορίας
-- Lemmatiste: C
+<p>- Μελεάγρου</p>
+
+![*Codex Palatinus* 23 p. 118](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:69.31749,72.7046,13.59332,2.21087/full/0/default.jpg)
+
+<p>- Lemma: ἀποτρεπτικὸν παιδοφθορίας</p>
+
+![*Codex Palatinus* 23 p. 118](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:67.46829,74.48699,17.99995,3.98918/full/0/default.jpg)
+
+<p>- Lemmatiste: C</p>
+
+---
+
+![*Codex Palatinus* 23 p. 118](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A118.jpg/pct:5.20427,71.951,63.39362,5.89148/full/0/default.jpg)
+
+![*Codex Palatinus* 23 p. 119](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A119.jpg/pct:27.10516,11.74468,56.26791,4.92797/full/0/default.jpg)
 
 οὔ μοι παιδομανὴς κραδία:  
 τί δὲ τερπνόν,Ἔρωτες ,  
@@ -684,21 +708,24 @@ Lysidikê consagrou a você, Cypris, o chicote de equitação, açoite dourado d
 ἁ χεὶρ γὰρ τὰν χεῖρα. καλά με μένει παράκοιτις:  
 ἔρροι πᾶς ἄρσην ἀρσενικαῖς λαβίσιν.  
 
-Nã há em mim um coração louco por garotos. Qual é o prazer, Eros, em sodomizar homens se aquele que não dá nada deseja receber. Ora, uma mão lava a outra. Uma bela esposa me conquistou, e que se vão todos os machos com seus traseiros masculinos.
+Nã há em mim um coração louco por garotos.  
+Qual é o prazer, Eros, em sodomizar homens se aquele que não dá nada deseja receber.   
+Ora, uma mão lava a outra. Uma bela esposa me conquistou,   
+e que se vão todos os machos com seus traseiros masculinos.  
 
 ## παθητικὸν
 ### 5.215
-- Μελεάγρου
-- Lemma: Μελεάγρου · εἰς Ἡλιοδώραν διὰ τὸν πρὸς αὐτὴν ἔρωτα · παθητικὸν
-- Lemmatiste: C.
+<p>- Μελεάγρου</p>
+<p>- Lemma: Μελεάγρου · εἰς Ἡλιοδώραν διὰ τὸν πρὸς αὐτὴν ἔρωτα · παθητικὸν</p>
+<p>- Lemmatiste: C</p>
 
 ## Ἀφηγηματικόν ; πάσαν γέμον
 ### 5.255
-- Παύλου Σιλεντιαρίου
-- Lemma: Τοῦ αὐτοῦ ; Ἀφηγηματικόν
-- Lemmatiste: A
-- Lemma: πάσαν γέμον. ἔρωτος ἀκοσμίαν
-- Lemmatiste: C
+<p>- Παύλου Σιλεντιαρίου</p>
+<p>- Lemma: Τοῦ αὐτοῦ ; Ἀφηγηματικόν</p>
+<p>- Lemmatiste: A</p>
+<p>- Lemma: πάσαν γέμον. ἔρωτος ἀκοσμίαν</p>
+<p>- Lemmatiste: C</p>
 ### 5.294
-- Ἀγαθίου Σχολαστικοῦ
-- Lemma: ἀφηγηματικόν
+<p>- Ἀγαθίου Σχολαστικοῦ</p>
+<p>- Lemma: ἀφηγηματικόν</p>
