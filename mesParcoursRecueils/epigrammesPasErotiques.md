@@ -716,16 +716,53 @@ e que se vão todos os machos com seus traseiros masculinos.
 ## παθητικὸν
 ### 5.215
 <p>- Μελεάγρου</p>
+
+![*Codex Palatinus* 23 p. 119](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A119.jpg/pct:13.5612,74.54101,15.05941,2.8239/full/0/default.jpg)
+
+![*Codex Palatinus* 23 p. 571](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A571.jpg/pct:72.92253,52.23869,14.75882,3.62399/full/0/default.jpg)
+
 <p>- Lemma: Μελεάγρου · εἰς Ἡλιοδώραν διὰ τὸν πρὸς αὐτὴν ἔρωτα · παθητικὸν</p>
+
+![*Codex Palatinus* 23 p. 120](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A120.jpg/pct:68.86588,11.13982,18.14933,6.63261/full/0/default.jpg)
+
 <p>- Lemmatiste: C</p>
+
+---
+
+![*Codex Palatinus* 23 p. 119](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A119.jpg/pct:27.76389,74.62105,63.66791,3.22558/full/0/default.jpg)
+
+![*Codex Palatinus* 23 p. 120](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A120.jpg/pct:9.452,11.10748,56.87392,11.78296/full/0/default.jpg)
+
+![*Codex Palatinus* 23 p. 571](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A571.jpg/pct:9.1725,52.85525,67.05562,12.8643/full/0/default.jpg)
 
 ## Ἀφηγηματικόν ; πάσαν γέμον
 ### 5.255
 <p>- Παύλου Σιλεντιαρίου</p>
 <p>- Lemma: Τοῦ αὐτοῦ ; Ἀφηγηματικόν</p>
+
+![*Codex Palatinus* 23 p. 128](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A128.jpg/pct:70.93517523173735,37.0685357429626,14.308397819346357,3.189635329321626/full/0/default.jpg)
+
 <p>- Lemmatiste: A</p>
 <p>- Lemma: πάσαν γέμον. ἔρωτος ἀκοσμίαν</p>
+
+![*Codex Palatinus* 23 p. 128](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A128.jpg/pct:70.28342633400013,39.96916613203234,20.685705765708168,3.6944474627838746/full/0/default.jpg)
+
 <p>- Lemmatiste: C</p>
+---
+
+![*Codex Palatinus* 23 p. 128](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A128.jpg/pct:9.014767120639167,36.23276041778393,57.027565815065586,35.78732106339469/full/0/default.jpg)
+
 ### 5.294
 <p>- Ἀγαθίου Σχολαστικοῦ</p>
+
+![*Codex Palatinus* 23 p. 137](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A137.jpg/pct:12.613699514102436,44.119092626960466,15.655444952851132,2.312673450508782/full/0/default.jpg)
+
 <p>- Lemma: ἀφηγηματικόν</p>
+
+![*Codex Palatinus* 23 p. 137](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A137.jpg/pct:12.078050010773026,45.77256736403822,16.530913914030307,2.51090260340954/full/0/default.jpg)
+
+--- 
+
+![*Codex Palatinus* 23 p. 137](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A137.jpg/pct:26.986271900050873,43.79633394965121,63.763682580786416,35.20966271649954/full/0/default.jpg)
+
+![*Codex Palatinus* 23 . 138](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A138.jpg/pct:10.932386890555868,12.482851729970768,61.8677324930591,14.817459609033289/full/0/default.jpg)
