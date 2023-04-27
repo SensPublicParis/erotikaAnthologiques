@@ -85,3 +85,35 @@ Parmi tous les moyens d'action de la classe dominante, l'École est le plus impo
 > Précisons toute de suite que, cependant, la classe dominante ne *parvient pas* à le déterminer entièrement, qu'il s'agit d'une tendance; et que l'École ne *joue pas parfaitement* le rôle qui lui est assigné \[...] l'enseignement du français (langue et littérature) est divisé en cycles correspondant chacun à des publics différents, non pas tant par leur âge que par la place qu'ils occuperont respectivement dans la production. (p. 59)
 
 Ne c'est que à l'université qu'on apprend à voir la langue comme un outil et moyen d'expression et la littérature et les auteurs avec quelque distance critique.
+
+### Du rapport des textes littéraires avec a langue, les formes littéraires et les critères esthétiques
+
+La lecture n'est pas défini en tant que l'opposée de l'écriture. 
+
+Le rapport social au langage (écriture ou lecture) est plus important pour rendre compte du fonctionnement des écrits et des textes que le pair écriture/lecture. 
+
+> "l'écriture" n'est transparence à "une pensée", la "lecture" n'est, ni interprétation de cette pensée, ni perception d'un "donné" (le texte) par l'"esprit". (p. 64)
+
+Tout texte littéraire est une œuvre d'art ET une œuvre de langage.
+
+les formes littéraires contribuent à donner forme au langage ; 
+le langage determine le littéraire en tant que forme. 
+C'est un mouvement de stigmergie
+
+Les données historiques et sociales sont fondamentaux pour penser le langage. Le langage n'est pas un outil neutre qu'exprime "la pensée", "la realité", "la vision" de l'auteur.
+
+Les classes dominantes ont une "politique de la langue".
+
+> la langue devait donc être présentée comme un *moyen d'expression*, et un moyen d'expression *universel* : dès lors ses différentes pratiques ne peuvent plus être perçues comme le résultat d'aprentissages différents, mais comme la simple expression de niveaux culturels différents (p. 70)
+
+
+L'orhodoxie grammaticale est un moyen de contrôle des classes dominantes. On t'enseigne la langue jusqu'au point qu'il faut pour faire ton boulot. Au dela de ça, tu parles un "mauvais français", tu parle du patois, tu as de l'accent. À la fin, seule l'élite va réussir à parler un "bon français". 
+En tant qu'ouvrier migrant, l'affaire se compléxifie. Or, la langue n'est pas la tienne. Tu dois faire un éfort plus grand pour l'apprendre et ils vont toujours affirmer que toi, tu ne parles pas la langue.
+
+> Car il y a bien de nos jours plusieurs qui se parlent, et tous les citoyens n'ont pas accès au même. (p. 71)
+
+La bourgeoisie impose une "langue commune" qui n'est pas un moyen d'expression neutre, au contraire elle est un outil au service de ses intérêts et elle est responsable pour le batissement d'un "réel" à l'image de la bougeoisie.
+
+La langue est un lieux où se livre la lutte de classes.
+
+Écrire et lire c'est s'en servir d'un instrument qui n'est pas innocent.
