@@ -88,6 +88,35 @@ L'éditeur scientifique tente d'agencer les différentes versions d'une œuvre
 
 > l'édition suppose une intervention sur le texte à établir, tandis que la publication suppose une simple mise à disposition sans intervention voulue (p. 11)
 
+Édition critique: établissement du texte.
+Édition savante: éclaircissement du texte.
+
+Appareil critique: 
+-  chronologie; 
+- index des nom propres et des matières;
+- bibliographie complémentaire;
+- notes et variantes d'un texte, souvent en bas de page
+
+éditon critique -> philologie
+
+être éditeur à *Anthologia* veut dire être au centre d'un travail philologique rafiné et ouvert
+
+> la notion d'auteur en lien étroit avec celle d'œuvre est un facteur déterminant dans l'émergence d'une tradition d'édition des œuvres modernes. (p. 27)
+
+La question posée: faut-il nécessairement faire le choix d'une version? (Breuil)
+*Anthologia* réponde cette question par un sonore "non". 
+Il ne faut pas choisir parmi les versions et, à la fin, présenter "la bonne version". 
+Étant une place de remédiation d'autres éditions, la plateforme fait le choix de ne pas choisir une seule version.
+Potentiellement, elle en présente toutes les versions.
+L'anthologie est une *forme* qui établit une *structure* pour présenter un *contenu* narrative. (Redefining the anthology)
+<!-- à mieux cerner les concepts de forme de et structure-->
+L'anthologie est une œuvre dépendante d'autres œuvres.
+Dépendant au sens qu'il n'y a pas des anthologies sans qui aient des œuvres sources où l'anthologie va chercher son contenu.
+Là, le fait de la remédiation se dévoile.
+Pourtant, la remédiation peut être plus ou moins opaque. 
+<!-- définition remédiation opaque et transparente-->
+*Anthologia* se place au côté de la transparence, une fois qu'elle montre ses plusieurs sources.
+
 Anthologia: édition pluriversionnelle ou édition pluriprésentationnelle
 
 - Éditions pluriprésentationnelles (p. 694)
