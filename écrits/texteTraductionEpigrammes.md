@@ -30,10 +30,11 @@ Intertextualité --> Relation de coprésence entre deux ou plusieurs textes (Pen
 --- 
 
 Édition pluriprésentationnelle: présenter l'AP comme un lieu de remédiation
-
 Pluriprésentationnelle parce qu'elle fait de la remédiation? Si c'est le cas, pourquoi apporter le concept de pluriprésentationnelle ?
-
 Concept de pluriprésentationnelle -> une anthologie est essentiellement pluriprésentationnelle parce qu'elle fait de la remédiation.
+Par contre, pas forcement une édition qui fait de la remédiation est pluriprésentationnelle. 
+*Anthologia* a fait le choix de l'être (voir traductionAutomatiqueLemmatisation)
+
 
 > from its very origin the anthology form presented itself as a collection of separate, standalone stories. Narratives are therefore the *nuclei* of the anthology, which is primarily a form built on the assemblage of multiple forms. (p. 30) (Redefining the anthology)
 
