@@ -735,6 +735,20 @@ e que se vão todos os machos com seus traseiros masculinos.
 
 ![*Codex Palatinus* 23 p. 571](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A571.jpg/pct:9.1725,52.85525,67.05562,12.8643/full/0/default.jpg)
 
+λίσσομ᾽, Ἔρως, τὸν ἄγρυπνον ἐμοὶ πόθον Ἡλιοδώρας
+κοίμισον, αἰδεσθεὶς Μοῦσαν ἐμὴν ἱκέτιν.
+ναὶ γὰρ δὴ τὰ σὰ τόξα, τὰ μὴ δεδιδαγμένα βάλλειν
+ἄλλον, ἀεὶ δ᾽ ἐπ᾽ ἐμοὶ πτηνὰ χέοντα βέλη,
+εἰ καί με κτείναις, λείψω φωνὴν προϊέντα
+γράμματ᾽« ἔρωτος ὅρα, ξεῖνε, μιαιφονίην ».
+
+Éros, eu te peço: tenha piedade de minha Musa suplicante 
+e adormeça meu desejo sempre desperto por Heliodora!
+Ora, mas é claro, pois de fato, o teu arco, esse que não foi ensinado a atirar em outro, 
+ele sempre faz chover voadoras flechas sobre mim. 
+E se me matares, deixarei minha voz inscrita em palavras gritando:
+« veja, passante, um assassinato cometido por Éros»
+
 ## Ἀφηγηματικόν ; πάσαν γέμον
 ### 5.255
 <p>- Παύλου Σιλεντιαρίου</p>
