@@ -117,3 +117,36 @@ La bourgeoisie impose une "langue commune" qui n'est pas un moyen d'expression n
 La langue est un lieux où se livre la lutte de classes.
 
 Écrire et lire c'est s'en servir d'un instrument qui n'est pas innocent.
+
+> les textes littéraires, dans la mesure où ils sont des œuvres de langage valorisées selon des critères -- vagues et flous -- *autres* que ceux de la correction grammaticale se trouvent souvent en contravention avec les règles du "bon français". (p. 77)
+
+Le texte littéraire comme œuvre de langage dévoile l'idéologie dominante, mais il en souffre des violences aussi.
+
+Tout texte littéraire est une œuvre de langage et aussi une œuvre d'art. Ainsi, il gravite autour de deux systèmes de règles (la langue et le beau).
+
+### Formes littéraires, critères esthétiques
+
+Les formes littéraires orientent la lecture et l'écriture.
+
+Forme littéraire: 
+- Intermédiaires du fait de langage;
+- modalités d'emploi du langage;
+- définie, à chaque époque, par un ensemble de règles plus ou moins explicites et en constante transformation;
+- liée à un certain type d'utilisation du langage;
+- "se sont constituées et ont évolué dans l'Histoire. Elles sont elles-mêmes signifiantes et peuvent s'analyser comme une formation de compromis entre des forces antagonistes" (p. 88);
+- sont idéologie dans la mesure où une fonction privilegiée leur est atribuée;
+
+À la thèse, je dois faire une taxinomie de l'épigramme?
+Oui, un peu
+
+> ce qui, à une époque donnée, est acceptable sans scandale dans un genre cesse de l'être dans un autre. (p.86)
+
+L'art: mode de connaissance et transformation du réel;
+
+Les emplois et les rôles des formes littéraires
+- rôle idéologique: typiquement masqué, liaison intime mais paradoxale à l'appréhension du réel; 
+- rôle d'appréhension du réel dans une époque donnée, une société donnée; fonction de connaissance et d'action sur le réel.
+
+> les formes artistiques, si pénétrées soient-elles d'idéologie, constituent cependant, dans leur matérialité, dans leur diversité, leur évolution et leurs balbutiements, des tentatives spécifiques de connaissance du réel et d'action sur lui. (p. 93)
+
+
