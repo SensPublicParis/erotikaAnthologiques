@@ -766,6 +766,43 @@ E se me matares, deixarei minha voz inscrita em palavras gritando:
 
 ![*Codex Palatinus* 23 p. 128](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A128.jpg/pct:9.014767120639167,36.23276041778393,57.027565815065586,35.78732106339469/full/0/default.jpg)
 
+εἶδον ἐγὼ ποθέοντας: ὑπ᾽ ἀτλήτοιο δὲ λύσσης  
+δηρὸν ἐν ἀλλήλοις χείλεα πηξάμενοι,  
+οὐ κόρον εἶχον ἔρωτος ἀφειδέος: ἱέμενοι δέ,  
+εἰ θέμις, ἀλλήλων δύμεναι ἐς κραδίην,  
+ἀμφασίης ὅσον ὅσσον ὑπεπρήυνον ἀνάγκην,  
+ἀλλήλων μαλακοῖς φάρεσιν ἑσσάμενοι.  
+καὶ ῥ᾽ ὁ μὲν ἦν Ἀχιλῆι πανείκελος, οἷος ἐκεῖνος  
+τῶν Λυκομηδείων ἔνδον ἔην θαλάμων  
+κούρη δ᾽ ἀργυφέης ἐπιγουνίδος ἄχρι χιτῶνα  
+ζωσαμένη, Φοίβης εἶδος ἀπεπλάσατο.  
+καὶ πάλιν ἠρήρειστο τὰ χείλεα: γυιοβόρον γὰρ  
+εἶχον ἀλωφήτου λιμὸν ἐρωμανίης.  
+ῥεῖά τις ἡμερίδος στελέχη δύο σύμπλοκα λύσει,  
+στρεπτά, πολυχρονίῳ πλέγματι συμφυέα,  
+ἢ κείνους ῾φιλέοντας, ὑπ᾽ ἀντιπόροισὶ τ᾽ ἀγοστοῖς  
+ὑγρὰ περιπλέγδην ἅψεα δησαμένους.  
+τρὶς μάκαρ, ὃς τοίοισι, φίλη, δεσμοῖσιν ἑλίχθη,  
+τρὶς μάκαρ: ἀλλ᾽ ἡμεῖς ἄνδιχα καιόμεθα.  
+
+Eu os vi sedentos de desejo: em um furor impaciente,   
+colando seus lábios nos lábios do outro longamente,   
+eles não se saciavam desse amor sem fim e lançavam-se,  
+como se fosse possível, para mergulhar no coração do outro;  
+então eles acalmavam a violência dessa impotência  
+vestindo as suaves roupas do outro.  
+O rapaz, ele em tudo parecia com Aquiles   
+quando esse estava nos aposentos de Licomedes;  
+a moça, que portava uma túnica até as prateadas coxas,   
+ela era uma imagem de Febe.  
+E então os lábios mais um vez se colam,   
+já que os amantes tem uma fome devoradora de um amor louco incessante.  
+Com mais facilidade alguém soltaria dois ramos de parreira que crescerem juntos,  
+entrelaçados, emanharados juntos há muito tempo,  
+do que aqueles amantes, ligados intimamente por abraços mútuos de seus suaves membros.  
+Querida, é três vezes bem-aventurado aquele que está preso em tal corrente,   
+três vezes bem-aventurado... Mas nós, nós queimamos separados.  
+
 ### 5.294
 <p>- Ἀγαθίου Σχολαστικοῦ</p>
 
