@@ -149,4 +149,12 @@ Les emplois et les rôles des formes littéraires
 
 > les formes artistiques, si pénétrées soient-elles d'idéologie, constituent cependant, dans leur matérialité, dans leur diversité, leur évolution et leurs balbutiements, des tentatives spécifiques de connaissance du réel et d'action sur lui. (p. 93)
 
+les formes littéraires fonctionnent en relation avec le langage, dont elles façonnent et légitiment.
 
+les formes littéraires se définissent par rapport leur passé aussi.
+pour définir un roman du 21 siècle, il faut comprendre ce qu'était le roman au 20^ème^.
+
+l'activité littéraire est un mode de connaissance et de transformation du réel.
+l'art devient un enjeu important pour les luttes de classe.
+
+> l'efficacité idéologique d'une forme tient à la fonction qui lui est, à une époque donnée, particulièrement dévolue par la législation esthétique dominante au point que cette fonction semble -- illusoirement -- constitutive de la forme elle-même. (p. 106)
