@@ -42,6 +42,11 @@ Une définition d'anthologie:
 
 > the anthology can be read as a *form* that gives a *structure* to narrative *content* in relation to a cultural, social, economic *context*, among others (p. 34) (Redefining the anthology)
 
+> starting with an extremely simple definition, a form can be intended as the shape and length of a narrative text. (TAURINO, p. 49)
+- historical, material and cultural conditions are important in the establishment of a form
+- formal arrangements: chapters, episodes, sequences, verses, etc.
+- form: a way to impose order
+
 ---
 
 Les outils numériques
