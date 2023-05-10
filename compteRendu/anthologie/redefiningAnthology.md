@@ -53,13 +53,17 @@ Format:
 - Dimension economique
 - Dimension productive (Jean K. Chalaby)
 - Dimension narrative
+- une construction de l'industrie qui après est prise en tant que concept par l'académie
+- é a massa da torta, que é imutável, enquanto o recheio, o conteúdo, pode variar.
+- des series télévisées qui sont adaptées à plusieurs pays. Des exemples données: *Mujeres asesinas*, serie argentine adaptée aux USA par *Killer women*; *Bron*, serie danoise devenu *The Brigde*, aux USA, et *Der pass*,en Alemagne et Belgique. Le série a un format, et celui est appliqué ailleurs.
 
 Forme:
 - "an arrangement of elements -- an ordering, patterning, or shaping" (Levine 2015: 3)
 - "Totalité" de la forme 
 - "Rhythm", la temporalité de la forme
 - Hierarchie, l'ordre de la forme
-- "Réseau" les formes, et les réseaux, ont des configurations systematisées et ordonnées.
+- "Réseau" les formes, et les réseaux, ont des configurations systematisées et ordonnées
+- forme narrative: *shape and length of a narrative text*
 
 Formula:
 - " a process of absorption of cultural practices or norms, and genre, which has a long history in literary studies taking a structuralist perspective in search for narrative patterns and cues" (p. 40)
@@ -67,4 +71,6 @@ Formula:
 Ces trois termes sont importants pour comprendre l'importance de la repétition, de la regularité et du retour aux anthologies.
 
 1.2.1 Formats
+
+
 
