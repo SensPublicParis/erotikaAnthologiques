@@ -47,6 +47,27 @@ Une définition d'anthologie:
 - formal arrangements: chapters, episodes, sequences, verses, etc.
 - form: a way to impose order
 
+<!-- Format:
+- des components structuraux qui affectent le contenu
+- "the total body of knowledge systematically and consciously assembled to facilitate the future adaptation under license of the program" (Moran and Malbon 2006: 7)
+- Dimension legale
+- Dimension culturale 
+- Dimension economique
+- Dimension productive (Jean K. Chalaby)
+- Dimension narrative
+
+Forme:
+- "an arrangement of elements -- an ordering, patterning, or shaping" (Levine 2015: 3)
+- "Totalité" de la forme 
+- "Rhythm", la temporalité de la forme
+- Hierarchie, l'ordre de la forme
+- "Réseau" les formes, et les réseaux, ont des configurations systematisées et ordonnées.
+
+Formula:
+- " a process of absorption of cultural practices or norms, and genre, which has a long history in literary studies taking a structuralist perspective in search for narrative patterns and cues" (p. 40)
+
+Ces trois termes sont importants pour comprendre l'importance de la repétition, de la regularité et du retour aux anthologies. (TAURINO)
+-->
 ---
 
 Les outils numériques
