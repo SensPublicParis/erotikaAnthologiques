@@ -158,3 +158,11 @@ l'activité littéraire est un mode de connaissance et de transformation du rée
 l'art devient un enjeu important pour les luttes de classe.
 
 > l'efficacité idéologique d'une forme tient à la fonction qui lui est, à une époque donnée, particulièrement dévolue par la législation esthétique dominante au point que cette fonction semble -- illusoirement -- constitutive de la forme elle-même. (p. 106)
+
+penser pas comme le texte interprete le monde, mas comme il lui transforme.
+
+il n'y a pas de texte littéraire face au réel, mais textes qui font partie du réel.
+
+pas representation de l'erotique, mais construction
+
+> le statut littéraire d'un texte, s'il n'est pas, comme on l'a vu, attribuable à n'importe quel écrit n'est pas non plus un acquis définitif, mais la marque d'un *rapport* spécifique aux autres œuvres de langage, aux normes esthétiques, éléments de référence qui évoluent eux-mêmes. (p. 111)
