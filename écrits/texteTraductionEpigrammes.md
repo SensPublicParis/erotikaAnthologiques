@@ -11,12 +11,13 @@ J'ai crée un article Stylo [ici](https://stylo.huma-num.fr/article/6412309ba12b
 *Sujet: la traduction de l'épigramme 5.55 vers le portugais à *Anthologia** 
 
 1. Introduction
-2. *Anthologia*, une édition pluriprésentationnelle.
-3. Comment traduire le *pornikotaton*
-4. La censure
-5. L'obscène
-6. L'explicite
-7. Traduction assistée par des outils numériques
+2. Traduction assistée par des outils numériques
+3. *Anthologia*, une édition pluriprésentationnelle.
+4. Comment traduire le *pornikotaton*
+5. La censure
+6. L'obscène
+7. Mes choix (?)
+
 
 ---
 
