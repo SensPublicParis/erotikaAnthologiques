@@ -8,6 +8,7 @@ Martial est l'épigrammatiste qui a le plus à dire à propos du masculin et du 
 Avec lui, Catullus et les couronnes de Méléagre et Philippe. 
 
 > In particular, the picture of the female sex gained from epigram is stereotypical and simplistic. It is a truism that one cannot forma a realistic picture of women's lived existence in ancient Greece and Rome. (p. 93)
+
 Ce sont des hommes qui écrivent à propos des femmes.
 Le regard est biasé, il se centre au masculin.
 L'homme est actif, il conduit la relation et c'est lui qui jouit.
