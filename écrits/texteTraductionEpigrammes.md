@@ -14,9 +14,9 @@ J'ai crée un article Stylo [ici](https://stylo.huma-num.fr/article/6412309ba12b
 2. Traduction assistée par des outils numériques
 3. *Anthologia*, une édition pluriprésentationnelle.
 4. Comment traduire le *pornikotaton*
-5. La censure
+5. L'option latine
 6. L'obscène
-7. Mes choix (?)
+7. *A maior putaria*
 
 
 ---
@@ -26,6 +26,24 @@ Introduction
 La question de la traduction: s'approcher le plus possible du texte en grec
 Toute traduction est un intertexte
 Intertextualité --> Relation de coprésence entre deux ou plusieurs textes (Penser le palympseste numérique)
+
+--- 
+Les outils numériques
+
+Une traduction faite avec le support des outils numériques, mais quand même très distante de la traduction automatique.  
+Il faut trouver une bibliographie autour de la traduction automatique
+
+"La traduction automatique est un processus informatique où un texte dans une langue source est traduit vers une langue cible" 
+- Commentaire Marcello: laisser tomber l'idée de traduction automatique. Ce que je fais c'est de la traduction assistée par des outils numériques.
+
+Les trois étapes de la TA
+1. dictionnaire électronique - les dictionnaires et la lemmatisation
+2. traduction statistique - les données affichés par Perseus ; CLTK ; Classical Language Toolkit (CLTK) contains a lemmatizer that disambiguates between multiple lemmas by choosing the most frequent one according to its corpus frequency.  CLTK runs differents lemmatizers in sequence. So, if one lemmatizer cannot find the answer, another one will be able to lemmatise the word <!-- Je n'ai pas parlé du CLTK, mais du Morpheus -->. C'est un cas au champs de la traduction automatique statistique. Le plus grand le corpus mieux est la lemmatisation.
+3. traduction neuronale - je ne vais pas traiter de la traduction neuronale.
+
+"La lemmatisation est l'opération par laquelle les formes d'un texte, ou d'un corpus de textes, sont classées sous le mot qui pourrait leur servir d' «entrée lexicale» dans un dictionnaire"
+
+Les cas où le dictionnaire ne trouve pas le mot: souvent des noms propres <!-- à penser la pertinence --> 
 
 --- 
 
@@ -70,25 +88,6 @@ Ces trois termes sont importants pour comprendre l'importance de la repétition,
 -->
 ---
 
-Les outils numériques
-
-Une traduction faite avec le support des outils numériques, mais quand même très distante de la traduction automatique.  
-Il faut trouver une bibliographie autour de la traduction automatique
-
-"La traduction automatique est un processus informatique où un texte dans une langue source est traduit vers une langue cible" 
-- Commentaire Marcello: laisser tomber l'idée de traduction automatique. Ce que je fais c'est de la traduction assistée par des outils numériques.
-
-Les trois étapes de la TA
-1. dictionnaire électronique - les dictionnaires et la lemmatisation
-2. traduction statistique - les données affichés par Perseus ; CLTK ; Classical Language Toolkit (CLTK) contains a lemmatizer that disambiguates between multiple lemmas by choosing the most frequent one according to its corpus frequency.  CLTK runs differents lemmatizers in sequence. So, if one lemmatizer cannot find the answer, another one will be able to lemmatise the word <!-- Je n'ai pas parlé du CLTK, mais du Morpheus -->. C'est un cas au champs de la traduction automatique statistique. Le plus grand le corpus mieux est la lemmatisation.
-3. traduction neuronale - je ne vais pas traiter de la traduction neuronale.
-
-"La lemmatisation est l'opération par laquelle les formes d'un texte, ou d'un corpus de textes, sont classées sous le mot qui pourrait leur servir d' «entrée lexicale» dans un dictionnaire"
-
-Les cas où le dictionnaire ne trouve pas le mot: souvent des noms propres <!-- à penser la pertinence --> 
-
---- 
-
 Comment traduire le *pornikotaton*
 
 1. Comment les autres traducteurs ont vu la question ? Paton traduit vers le latin. Waltz traduit vers le français. Quel est le choix de mots de Waltz?
@@ -114,4 +113,4 @@ Or, le texte dévoile l'acte du début -- *ιατείνας ἄνθεσιν �
 Ainsi, c'est possible parler d'une "esthétique pornographique" (DI FOLCO)
 
 
-Ma thèse à cette partie (je dois l'annonce au début du texte) est que cette épigramme est *pornikotaton* parce qu'elle joue avec la métaphore de la fleur. Il y en a d'autres épigrammes plus explicites, il y en a autres épigrammes plus obscènes et qui "dérangent" plus la morale.
+Ma thèse à cette partie (je dois l'annoncer au début du texte) est que cette épigramme est *pornikotaton* parce qu'elle joue avec la métaphore de la fleur. Il y en a d'autres épigrammes plus explicites, il y en a autres épigrammes plus obscènes et qui "dérangent" plus la morale.
