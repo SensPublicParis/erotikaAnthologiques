@@ -106,7 +106,6 @@ Les classes dominantes ont une "politique de la langue".
 
 > la langue devait donc être présentée comme un *moyen d'expression*, et un moyen d'expression *universel* : dès lors ses différentes pratiques ne peuvent plus être perçues comme le résultat d'aprentissages différents, mais comme la simple expression de niveaux culturels différents (p. 70)
 
-
 L'orhodoxie grammaticale est un moyen de contrôle des classes dominantes. On t'enseigne la langue jusqu'au point qu'il faut pour faire ton boulot. Au dela de ça, tu parles un "mauvais français", tu parle du patois, tu as de l'accent. À la fin, seule l'élite va réussir à parler un "bon français". 
 En tant qu'ouvrier migrant, l'affaire se compléxifie. Or, la langue n'est pas la tienne. Tu dois faire un éfort plus grand pour l'apprendre et ils vont toujours affirmer que toi, tu ne parles pas la langue.
 
@@ -166,3 +165,27 @@ il n'y a pas de texte littéraire face au réel, mais textes qui font partie du 
 pas representation de l'erotique, mais construction
 
 > le statut littéraire d'un texte, s'il n'est pas, comme on l'a vu, attribuable à n'importe quel écrit n'est pas non plus un acquis définitif, mais la marque d'un *rapport* spécifique aux autres œuvres de langage, aux normes esthétiques, éléments de référence qui évoluent eux-mêmes. (p. 111)
+
+Un texte, pour qu'il soit littéraire, doit être legitimé par la classe dominante. 
+Par contre, um peut mettre en cause à quelque degré la cohérence et l'harmonie du pseudo-système mis en place par la classe dominante.
+
+> toute lecture, critique, commentaire, récitation, mise en scène, à l'écran, etc. est en dernière analyse et à travers de nombreuses médiations, un *type d'utilisation* des textes littéraires et à travers eux de la langue. (p. 114)
+
+Le texte littéraire a un valeur d'usage social.
+Le travail littéraire n'est pas socialement inutile.
+
+> la bourgeoisie depuis qu'elle est au pouvoir n'a jamais abandonné, si elle en a diversifié et "rafiné" les formes, la censure économique et juridique des textes littéraires. (p. 115)
+
+La lecture est une technique.
+L'écriture est une technique.
+La recitation est une technique.
+
+> l'activité de lecture dépend de l'époque et du type de société considérés car l'apprentissage et la fonction de la lecture varient, comme le public touché. (p. 117)
+
+il y a des lectures. 
+Chaque lecture est un type d'utilisation du texte.
+La lecture est un mode de connaissance, elle a un rapport plus ou moins actif à la réalité.
+
+Le fonctionnement du phénomène littéraire dépend de la mise en œuvre de deux codes: la lecture et l'écriture.
+Ces deux codes sont basés sur un autre, la langue.
+En plus, ces codes ne sont pas des outils neutres d'expression et de transmission.
