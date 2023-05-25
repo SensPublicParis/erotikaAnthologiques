@@ -189,3 +189,5 @@ La lecture est un mode de connaissance, elle a un rapport plus ou moins actif à
 Le fonctionnement du phénomène littéraire dépend de la mise en œuvre de deux codes: la lecture et l'écriture.
 Ces deux codes sont basés sur un autre, la langue.
 En plus, ces codes ne sont pas des outils neutres d'expression et de transmission.
+
+Pour travailler avec la littérature, la démarche scientifique consiste à tenir à la fois compte de la relative spécificité du phénomène littéraire et de la fonction que remplit effectivement la littérature dans un pays donné à une époque donnée.
