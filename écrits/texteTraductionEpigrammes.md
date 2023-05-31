@@ -23,9 +23,8 @@ J'ai crée un article Stylo [ici](https://stylo.huma-num.fr/article/6412309ba12b
 
 Introduction
 
-La question de la traduction: s'approcher le plus possible du texte en grec
-Toute traduction est un intertexte
-Intertextualité --> Relation de coprésence entre deux ou plusieurs textes (Penser le palympseste numérique)
+Discuer comment la traduction est un moyen de rendre l'épigramme plus ou moins pornographique. 
+Le traducteur traite le texte comment?
 
 --- 
 Les outils numériques
@@ -43,7 +42,7 @@ Les trois étapes de la TA
 
 "La lemmatisation est l'opération par laquelle les formes d'un texte, ou d'un corpus de textes, sont classées sous le mot qui pourrait leur servir d' «entrée lexicale» dans un dictionnaire"
 
-Les cas où le dictionnaire ne trouve pas le mot: souvent des noms propres <!-- à penser la pertinence --> 
+**Il faut encore "justifier" pourquoi je parle de mes outils de traduction**
 
 --- 
 
