@@ -867,3 +867,25 @@ três vezes bem-aventurado... Mas nós, nós queimamos separados.
 ναὶ τάχα πορθήσω τείχεα παρθενίης,
 οὐδ᾽ ἔτι με σχήσουσιν ἐπάλξιες· ἢν δὲ τυχήσω,
 στέμματα σοὶ πλέξω, Κύπρι τροπαιοφόρε. (Waltz)
+
+A velha, aquela invejosa, deitou-se ao lado da jovem, 
+e, cruzada, colava as costas na cama, 
+disposta como um muro inacessível;
+também, tal qual uma torre, uma grande e simples vestimenta cobria a jovem.
+Além disso, uma impetuosa serva, tendo fechado as portas do recinto,
+permanecia ali pesada, ébria de vinho forte.
+De qualquer forma, elas não me assustam. 
+Logo tirei o pequeno trinco da porta com minhas silenciosas mãos,
+apaguei as tochas que queimavam criando ventos com meu casaco
+e, esgueirando-me agachado no quarto, escapei da sentinela sonolenta.
+Assim, primeiro me arrastei de barriga sorrateiramente sob as cordas da cama,
+então me ergui um pouco ali onde a muralha permitia a passagem.
+E já perto, após aproximar-me do peito da jovem, dominei os seios dela
+e me deliciei em seu rosto enquanto comia com minha boca seus lábios de pele macia.
+Ora, para mim o butim foi a linda boca, 
+e os beijos foram a marca do combate noturno que empreendi. 
+Porém ainda não conquistei a fortaleza da amada virgindade,
+e a fortaleza ainda permanece fechada, um prelúdio sem combate.
+De todo modo, se nós começarmos combate de diferente ardor,
+sim, rapidamente eu devastaria a muralha da virgindade, mas ainda não me caíram os muros.
+Ora, se eu obtiver essa vitória, eu farei guirlandas para você, Cipris portadora de troféus.
