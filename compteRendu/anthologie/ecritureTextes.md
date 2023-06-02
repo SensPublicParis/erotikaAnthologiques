@@ -191,3 +191,13 @@ Ces deux codes sont basés sur un autre, la langue.
 En plus, ces codes ne sont pas des outils neutres d'expression et de transmission.
 
 Pour travailler avec la littérature, la démarche scientifique consiste à tenir à la fois compte de la relative spécificité du phénomène littéraire et de la fonction que remplit effectivement la littérature dans un pays donné à une époque donnée.
+
+La télévision, la radio, les films "commerciaux": véhicules de l'idéologie dominante.
+
+> la spécificité du phénomène littéraire est, dans notre société de classes, déterminée en fait, non d'après sa seule nature, mais -- très largement -- d'après sa fonction sociale (p. 129)
+
+La littérature a une efficacité qui dépend des textes, mais aussi de l'utilisation de ces textes.
+
+--> "Un 'grand texte' laisse émerger à sa manière les conflits de classes masqués d'autre part" (p.130)  <-- la clé de l'analyse litéraire marxiste
+
+Modes de perception: vois d'appréhension des textes littéraires qui échappent aux codes appris, à la législation esthétique et linguistique de la classe dominante.
