@@ -818,74 +818,74 @@ três vezes bem-aventurado... Mas nós, nós queimamos separados.
 
 ![*Codex Palatinus* 23 . 138](http://digi.ub.uni-heidelberg.de/iiif/2/cpgraec23%3A138.jpg/pct:10.932386890555868,12.482851729970768,61.8677324930591,14.817459609033289/full/0/default.jpg)
 
-ἡ γραῦς ἡ φθονερὴ παρεκέκλιτο γείτονι κούρῃ
-δόχμιον ἐν λέκτρῳ νῶτον ἐρεισαμένη,
-προβλὴς ὥς τις ἔπαλξις ἀνέμβατος: οἷα δὲ πύργος
-ἔσκεπε τὴν κούρην ἁπλοῒς ἐκταδίη:
-καὶ σοβαρὴ θεράπαινα πύλας σφίγξασα μελάθρου
-κεῖτο χαλικρήτῳ νάματι βριθομένη.
-ἔμπης οὔ μ᾽ ἐφόβησαν ἐπεὶ στρεπτῆρα θυρέτρου
-χερσὶν ἀδουπήτοις βαιὸν ἀειράμενος,
-φρυκτοὺς αἰθαλόεντας ἐμῆς ῥιπίσμασι λώπης
-ἔσβεσα: καὶ διαδὺς λέχριος ἐν θαλάμῳ
-τὴν φύλακα κνώσσουσαν ὑπέκφυγον ἦκα δὲ λέκτρου
-νέρθεν ὑπὸ σχοίνοις γαστέρι συρόμενος,
-ὠρθούμην κατὰ βαιόν, ὅπη βατὸν ἔπλετο τεῖχος:
-ἄγχι δὲ τῆς κούρης στέρνον ἐρεισάμενος,
-μαζοὺς μὲν κρατέεσκον: ὑπεθρύφθην δὲ προσώπῳ,
-μάστακα πιαίνων χείλεος εὐαφίῃ.
-ἦν δ᾽ ἄρα μοι τὰ λάφυρα καλὸν στόμα, καὶ τὸ φίλημα
-σύμβολον ἐννυχίης εἶχον ἀεθλοσύνης.
-οὔπω δ᾽ ἐξαλάπαξα φίλης πύργωμα κορείης,
-ἀλλ᾽ ἔτ᾽ ἀδηρίτῳ σφίγγεται ἀμβολίῃ.
-ἔμπης ἢν ἑτέροιο μόθου στήσωμεν ἀγῶνα,
-ναὶ τάχα πορθήσω τείχεα παρθενίης,
-οὐ δ᾽ ἔτι με σχήσουσιν ἐπάλξιες. ἢν δὲ τυχήσω,
-στέμματα σοὶ πλέξω, Κύπρι τροπαιοφόρε. (Paton)
+ἡ γραῦς ἡ φθονερὴ παρεκέκλιτο γείτονι κούρῃ  
+δόχμιον ἐν λέκτρῳ νῶτον ἐρεισαμένη,  
+προβλὴς ὥς τις ἔπαλξις ἀνέμβατος: οἷα δὲ πύργος  
+ἔσκεπε τὴν κούρην ἁπλοῒς ἐκταδίη:  
+καὶ σοβαρὴ θεράπαινα πύλας σφίγξασα μελάθρου  
+κεῖτο χαλικρήτῳ νάματι βριθομένη.  
+ἔμπης οὔ μ᾽ ἐφόβησαν ἐπεὶ στρεπτῆρα θυρέτρου  
+χερσὶν ἀδουπήτοις βαιὸν ἀειράμενος,  
+φρυκτοὺς αἰθαλόεντας ἐμῆς ῥιπίσμασι λώπης  
+ἔσβεσα: καὶ διαδὺς λέχριος ἐν θαλάμῳ  
+τὴν φύλακα κνώσσουσαν ὑπέκφυγον ἦκα δὲ λέκτρου  
+νέρθεν ὑπὸ σχοίνοις γαστέρι συρόμενος,  
+ὠρθούμην κατὰ βαιόν, ὅπη βατὸν ἔπλετο τεῖχος:  
+ἄγχι δὲ τῆς κούρης στέρνον ἐρεισάμενος,  
+μαζοὺς μὲν κρατέεσκον: ὑπεθρύφθην δὲ προσώπῳ,  
+μάστακα πιαίνων χείλεος εὐαφίῃ.  
+ἦν δ᾽ ἄρα μοι τὰ λάφυρα καλὸν στόμα, καὶ τὸ φίλημα  
+σύμβολον ἐννυχίης εἶχον ἀεθλοσύνης.  
+οὔπω δ᾽ ἐξαλάπαξα φίλης πύργωμα κορείης,  
+ἀλλ᾽ ἔτ᾽ ἀδηρίτῳ σφίγγεται ἀμβολίῃ.  
+ἔμπης ἢν ἑτέροιο μόθου στήσωμεν ἀγῶνα,  
+ναὶ τάχα πορθήσω τείχεα παρθενίης,  
+οὐ δ᾽ ἔτι με σχήσουσιν ἐπάλξιες. ἢν δὲ τυχήσω,  
+στέμματα σοὶ πλέξω, Κύπρι τροπαιοφόρε. (Paton) 
 
-Ἡ γραῦς ἡ φθονερὴ παρεκέκλιτο γείτονι κούρῃ
-δόχμιον ἐν λέκτρῳ νῶτον ἐρεισαμένη,
-προβλὴς ὥς τις ἔπαλξις ἀνέμβατος· οἷα δ᾽ἐπ᾽ἧρι
-ἔσκεπε τὴν κούρην ἁπλοῒς ἐκταδίη.
-Καὶ σοβαρὴ θεράπαινα πύλας σφίγξασα μελάθρου
-κεῖτο χαλικρήτῳ νάματι βριθομένη.
-Ἔμπης οὔ μ᾽ ἐφόβησαν· ἐπεὶ στρεπτῆρα θυρέτρου
-χερσὶν ἀδουπήτοις βαιὸν ἀειράμενος
-φρυκτοὺς αἰθαλόεντας ἐμῆς ῥιπίσμασι λώπης
-ἔσβεσα, καὶ διαδὺς λέχριος ἐν θαλάμῳ
-τὴν φύλακα κνώσσουσαν ὑπέκφυγον· ἦκα δὲ λέκτρου
-νέρθεν ὑπὸ σχοίνοις γαστέρι συρόμενος,
-ὠρθούμην κατὰ βαιόν, ὅπῃ βατὸν ἔπλετο τεῖχος·
-ἄγχι δὲ τῆς κούρης στέρνον ἐρεισάμενος
-μαζοὺς μὲν κρατέεσκον, ὑπεθρύφθην δὲ προσώπῳ
-μάστακα πιαίνων χείλεος εὐαφίῃ.
-Ἦν δ᾽ ἄρα μοι τὰ λάφυρα καλὸν στόμα, καὶ τὸ φίλημα
-σύμβολον ἐννυχίης εἶχον ἀεθλοσύνης.
-Οὔπω δ᾽ ἐξαλάπαξα φίλης πύργωμα κορείης·
-ἀλλ᾽ ἔτ᾽ ἀδηρίτῳ σφίγγεται ἀμβολίῃ.
-Ἔμπης ἢν ἑτέροιο μόθου στήσωμεν ἀγῶνα,
-ναὶ τάχα πορθήσω τείχεα παρθενίης,
-οὐδ᾽ ἔτι με σχήσουσιν ἐπάλξιες· ἢν δὲ τυχήσω,
+Ἡ γραῦς ἡ φθονερὴ παρεκέκλιτο γείτονι κούρῃ  
+δόχμιον ἐν λέκτρῳ νῶτον ἐρεισαμένη,  
+προβλὴς ὥς τις ἔπαλξις ἀνέμβατος· οἷα δ᾽ἐπ᾽ἧρι  
+ἔσκεπε τὴν κούρην ἁπλοῒς ἐκταδίη.  
+Καὶ σοβαρὴ θεράπαινα πύλας σφίγξασα μελάθρου  
+κεῖτο χαλικρήτῳ νάματι βριθομένη.  
+Ἔμπης οὔ μ᾽ ἐφόβησαν· ἐπεὶ στρεπτῆρα θυρέτρου  
+χερσὶν ἀδουπήτοις βαιὸν ἀειράμενος  
+φρυκτοὺς αἰθαλόεντας ἐμῆς ῥιπίσμασι λώπης  
+ἔσβεσα, καὶ διαδὺς λέχριος ἐν θαλάμῳ  
+τὴν φύλακα κνώσσουσαν ὑπέκφυγον· ἦκα δὲ λέκτρου  
+νέρθεν ὑπὸ σχοίνοις γαστέρι συρόμενος,  
+ὠρθούμην κατὰ βαιόν, ὅπῃ βατὸν ἔπλετο τεῖχος·  
+ἄγχι δὲ τῆς κούρης στέρνον ἐρεισάμενος  
+μαζοὺς μὲν κρατέεσκον, ὑπεθρύφθην δὲ προσώπῳ  
+μάστακα πιαίνων χείλεος εὐαφίῃ.  
+Ἦν δ᾽ ἄρα μοι τὰ λάφυρα καλὸν στόμα, καὶ τὸ φίλημα  
+σύμβολον ἐννυχίης εἶχον ἀεθλοσύνης.   
+Οὔπω δ᾽ ἐξαλάπαξα φίλης πύργωμα κορείης·  
+ἀλλ᾽ ἔτ᾽ ἀδηρίτῳ σφίγγεται ἀμβολίῃ.  
+Ἔμπης ἢν ἑτέροιο μόθου στήσωμεν ἀγῶνα,  
+ναὶ τάχα πορθήσω τείχεα παρθενίης,  
+οὐδ᾽ ἔτι με σχήσουσιν ἐπάλξιες· ἢν δὲ τυχήσω,  
 στέμματα σοὶ πλέξω, Κύπρι τροπαιοφόρε. (Waltz)
 
-A velha, aquela invejosa, deitou-se ao lado da jovem, 
-e, cruzada, colava as costas na cama, 
-disposta como um muro inacessível;
-também, tal qual uma torre, uma grande e simples vestimenta cobria a jovem.
-Além disso, uma impetuosa serva, tendo fechado as portas do recinto,
-permanecia ali pesada, ébria de vinho forte.
-De qualquer forma, elas não me assustam. 
-Logo tirei o pequeno trinco da porta com minhas silenciosas mãos,
-apaguei as tochas que queimavam criando ventos com meu casaco
-e, esgueirando-me agachado no quarto, escapei da sentinela sonolenta.
-Assim, primeiro me arrastei de barriga sorrateiramente sob as cordas da cama,
-então me ergui um pouco ali onde a muralha permitia a passagem.
-E já perto, após aproximar-me do peito da jovem, dominei os seios dela
-e me deliciei em seu rosto enquanto comia com minha boca seus lábios de pele macia.
-Ora, para mim o butim foi a linda boca, 
-e os beijos foram a marca do combate noturno que empreendi. 
-Porém ainda não conquistei a fortaleza da amada virgindade,
-e a fortaleza ainda permanece fechada, um prelúdio sem combate.
-De todo modo, se nós começarmos combate de diferente ardor,
-sim, rapidamente eu devastaria a muralha da virgindade, mas ainda não me caíram os muros.
-Ora, se eu obtiver essa vitória, eu farei guirlandas para você, Cipris portadora de troféus.
+A velha, aquela invejosa, deitou-se ao lado da jovem,   
+e, cruzada, colava as costas na cama,   
+disposta como um muro inacessível;  
+também, tal qual uma torre, uma grande e simples vestimenta cobria a jovem.  
+Além disso, uma impetuosa serva, tendo fechado as portas do recinto,  
+permanecia ali pesada, ébria de vinho forte.  
+De qualquer forma, elas não me assustam.   
+Logo tirei o pequeno trinco da porta com minhas silenciosas mãos,  
+apaguei as tochas que queimavam criando ventos com meu casaco  
+e, esgueirando-me agachado no quarto, escapei da sentinela sonolenta.  
+Assim, primeiro me arrastei de barriga sorrateiramente sob as cordas da cama,  
+então me ergui um pouco ali onde a muralha permitia a passagem.  
+E já perto, após aproximar-me do peito da jovem, dominei os seios dela  
+e me deliciei em seu rosto enquanto comia com minha boca seus lábios de pele macia.  
+Ora, para mim o butim foi a linda boca,   
+e os beijos foram a marca do combate noturno que empreendi.   
+Porém ainda não conquistei a fortaleza da amada virgindade,  
+e a fortaleza ainda permanece fechada, um prelúdio sem combate.  
+De todo modo, se nós começarmos combate de diferente ardor,  
+sim, rapidamente eu devastaria a muralha da virgindade, mas ainda não me caíram os muros.  
+Ora, se eu obtiver essa vitória, eu farei guirlandas para você, Cipris portadora de troféus.  
