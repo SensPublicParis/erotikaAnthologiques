@@ -1,5 +1,4 @@
-<p>Il faut encore plus penser au squelette. </p>
-<p>Et le numérique? Mon travail est dedans les humanités numériques, mais le numérique n'apparaît nulle part. Dans une première pensée, je suppose que le numérique doit apparaître surtout à la première partie. Par contre, je vais mettre une "L'Anthologie Grecque numérique" où je peux parler de la plateforme AG</p>
+
 <p>Le fil conducteur:</p>
 <p>L'Anthologie Grecque est, comme toutes les anthologies, un rassemblement/recueil unitaire d'une multiplicité d'objets essentiellement différents. Le centre de mon projet de recherche est donc comprendre quels sont les critères que font qu'une multiplicité devient une apparente unité. D'abord, je dois comprendre l'Anthologie Grecque en tant qu'objet historique, c'est à dire étudier de la composition de l'œuvre et l'histoire des manuscrits (l'histoire des manuscrits ou l'histoire de la reception de ses manuscrits? à mieux penser). Ensuite, je dois analyser l'élément fondamental de l'AG, l'épigramme. Dans un deuxième temps, je me concentre dans l'études des *erotika* présentes dans l'AG. Ainsi, je analyse l'érotisme en tant que genre littéraire et la littérature érotique. À la fin, j'étudie quels sont les recueils érotiques dans l'AG et commen ils sont formés. </p>
 
@@ -96,3 +95,4 @@ L'amour qui brûle est un théme répandu à l'AG. Quelles sont les épigrammes 
 Des objets qui parlent aux amants, ou des amants qui gémissent leurs douleurs aux objets
 #### L'amour est une fleur
 La comparaison essentielle de l'anthologie: l'amour est une fleur, l'œuvre est un bouquet. Souvent on fait la comparaison entre l'être aimé.e et une fleur aussi.
+- Ici, j'ai écrit l'article sur l'épigramme 5.55.
