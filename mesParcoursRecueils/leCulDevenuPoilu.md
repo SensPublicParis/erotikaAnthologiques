@@ -74,3 +74,20 @@ A perna, Nicandro, tornou-se peluda! Ora, preste atenção
 para que sua bunda não passe pelo mesmo sem que você perceba
 e você saberá quão grande é a escassez de amantes.
 E assim, desde agora reflita sobre a juventude que não retorna.
+
+## 12.220
+- Auteur: Straton
+
+οὐχὶ τὸ πῦρ κλέψας δέδεσαι, κακόβουλε Προμηθεῦ,
+ἀλλ᾽ ὅτι τὸν πηλὸν τοῦ Διὸς ἠφάνισας.
+πλάττων ἀνθρώπους, ἔβαλες τρίχας: ἔνθεν ὁ δεινὸς
+πώγων, καὶ κνήμη παισὶ δασυνομένη.
+εἶτά σε δαρδάπτει Διὸς αἰετός, ὃς Γανυμήδην
+ἥρπας᾽ ὁ γὰρ πώγων καὶ Διὸς ἐστ᾽ ὀδύνη.
+
+Não, Prometeu de péssimas ideias, você não está amarrado por ter roubado o fogo,
+mas sim porque você fez desaparecer a argila de Zeus.
+Ao moldar os homens, você lançou mão de pelos, e eis então a terrível barba
+e a coxa que ficou peluda por toda parte.
+Por isso a águia de Zeus te devora, aquela mesma que sequestrou Ganimedes,
+pois a barba também é sofrimento para Zeus.
