@@ -160,3 +160,17 @@ Un espace où est possible de vivre l'experience playboy
 
 > the client of the American entertainment spaces is not meant to buy anything (yet) but to pay to have acess to the experience of inhabiting the space itself. (p. 181)
 
+Le club est un espace de domesticité masculine. 
+
+>The club is power, gender and subjectivity distributed in space. (p. 184)
+
+O toque de "modernidade" dado ao clube era também uma forma de disfaçar a relação originária entre esses espaços e a prostituição. Como o bordel estatal de Restif de la Bretonne, é uma tentativa de higienizar e camuflar.
+
+Modernité pour cacher les liaisons entre Playboy et les formes traditionnels de consomation du sexe en ville.
+
+Est-ce que le décor Playboy est kitsch?
+
+> The notion of kitsch has been used to describe Playboy's erotic settings. This notion emerged in Central European culture in the late nineteenth century to name badly executed and fake art-works, low-quality objects of little value, hoaxes and imitations. \[..] kitsch shows and celebrates its condition as fake. (p 204)
+
+Le dernier Playboy Club ferme ses portes en 1991. 
+En consequence, Playboy commence à dématerialiser: internet et video
